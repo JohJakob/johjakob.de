@@ -1,0 +1,23 @@
+<header>
+  <h1><a href="/">{{ site.author }}</a></h1>
+  <input type="checkbox" id="nav-checkbox" role="button">
+  <label for="nav-checkbox">
+    <svg width="24" height="24">
+      <line x1="0" y1="12" x2="24" y2="12" />
+      <line x1="12" y1="0" x2="12" y2="24" />
+    </svg>
+  </label>
+  <nav>
+    <ul>
+      <li {% if page.nav == 'work' %}class="nav-li-active"{% endif %}>
+        <a href="/">Work</a>
+      </li>
+      <li {%if page.nav == 'playground' %}class="nav-li-active"{% endif %}>
+        <a href="/playground">Playground</a>
+      </li>
+      <li {% if page.nav == 'about' %}class="nav-li-active"{% endif %}>
+        <a href="/about">About</a>
+      </li>
+    </ul>
+  </nav>
+</header>
