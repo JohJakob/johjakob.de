@@ -23,13 +23,15 @@
     <meta property="og:image" content="{{ site.baseurl }}/apple-touch-icon-precomposed.png">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="en_US">
-    <link rel="stylesheet" href="{{ 'css/index.min.css' | relative_url }}" media="screen">
+    <link rel="stylesheet" href="{{ 'css/index.css' | relative_url }}" media="screen">
     <link rel="mask-icon" href="{{ 'safari-tab-icon.svg' | relative_url }}" color="#222222" sizes="any">
     <link rel="icon" type="image/x-icon" href="{{ 'favicon.png' | relative_url }}">
   </head>
   <body>
     {% include header.html %}
-    {{ content }}
+    <main>
+      {{ content }}
+    </main>
     {% include footer.html %}
   </body>
 </html>
