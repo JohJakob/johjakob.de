@@ -7,7 +7,7 @@ nav: playground
   {% for post in site.posts %}
     {% if post.nav == 'playground' %}
       <div>
-        <iframe src="{{ post.content | replace: 'https://vimeo.com', 'https://player.vimeo.com/video' }}" allow="fullscreen" allowfullscreen></iframe>
+        <iframe src="{{ post.content | strip_html | replace: 'https://vimeo.com', 'https://player.vimeo.com/video' }}" allow="fullscreen" allowfullscreen></iframe>
       </div>
     {% endif %}
   {% endfor %}
