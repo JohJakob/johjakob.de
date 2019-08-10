@@ -1,0 +1,14 @@
+---
+layout: default
+nav: playground
+---
+
+<section class="section-playground">
+  {% for post in site.posts %}
+    {% if post.nav == 'playground' %}
+      <div>
+        <iframe src="{{ post.content | replace: 'https://vimeo.com', 'https://player.vimeo.com/video' }}" allow="fullscreen" allowfullscreen></iframe>
+      </div>
+    {% endif %}
+  {% endfor %}
+</section>
