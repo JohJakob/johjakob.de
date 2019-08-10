@@ -41,10 +41,10 @@
           transform: none;
 
           a {
-            color: $color__text-light;
+            color: var(--color__text-light);
 
             &:hover {
-              color: $color__text
+              color: var(--color__text)
             }
           }
         }
@@ -113,7 +113,7 @@
       }
 
       p {
-        color: rgba($color__text-white, .6);
+        color: darken($color__text-white, 30%);
         font-size: .8em
       }
     }

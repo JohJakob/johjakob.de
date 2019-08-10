@@ -7,7 +7,7 @@
 //
 
 .nav-li-active a {
-  color: $color__text
+  color: var(--color__text)
 }
 
 .section-intro {
@@ -43,7 +43,7 @@
     }
 
     p {
-      color: $color__text-light;
+      color: var(--color__text-light);
       font-size: .8em
     }
   }
@@ -91,12 +91,12 @@
 
   p, a {
     margin: 0;
-    color: $color__text-light;
+    color: var(--color__text-light);
     font-size: .8em;
     display: block
   }
 
   a:hover {
-    color: $color__text
+    color: var(--color__text)
   }
 }
