@@ -3,4 +3,25 @@ layout: default
 nav: work
 ---
 
-Test
+{{ site.posts.size }}
+<section class="section-work">
+  {% for post in site.posts %}
+    {% if post.nav == 'work' %}
+      <a href="{{ post.url }}">
+        <figure>
+          {% assign images = site.static_files | where: "image", true %}
+          {% for image in images %}
+            {% if image.basename == post.cover %}
+              {% assign basename_path = image.path | split: "." %}
+              <img src="{{ image.path }}" srcset="{{ basename_path[0] }}@2x{{ image.extname }} 2x">
+            {% endif %}
+          {% endfor %}
+          <figcaption>
+            <h2>{{ post.title }}</h2>
+            <p>{{ post.discipline }}</p>
+          </figcaption>
+        </figure>
+      </a>
+    {% endif %}
+  {% endfor %}
+</section>
