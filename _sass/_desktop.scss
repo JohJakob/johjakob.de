@@ -1,0 +1,138 @@
+//
+// desktop.scss
+// johjakob.de
+//
+// © Johannes Jakob
+// Made with <3 in Germany
+//
+
+@media (min-width: 801px) {
+  // Base
+
+  header, main, footer {
+    padding: $padding__content * 2 $padding__content * 4
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+
+    label {
+      display: none;
+    }
+
+    nav {
+      position: initial;
+      width: auto;
+      height: auto;
+      opacity: 1;
+      visibility: visible;
+
+      ul {
+        position: initial;
+        width: auto;
+        transform: none;
+        display: flex;
+
+        li {
+          font-size: 1em;
+          opacity: 1;
+          transform: none;
+
+          a {
+            color: $color__text-light;
+
+            &:hover {
+              color: $color__text
+            }
+          }
+        }
+      }
+    }
+  }
+
+  main, footer {
+    margin: 0 auto;
+    max-width: $max-width__main;
+  }
+
+  footer ul {
+    margin: 0 -1em;
+
+    li {
+      margin: 0 1em
+    }
+  }
+
+  // Classes
+
+  .section-intro {
+    p {
+      max-width: 60%;
+      font-size: 1.2em;
+    }
+  }
+
+  .section-work {
+    grid-template-columns: 1fr 1fr;
+
+    figure {
+      &:hover {
+        figcaption {
+          opacity: 1;
+
+          h2, p {
+            opacity: 1;
+            transform: none
+          }
+        }
+      }
+    }
+
+    figcaption {
+      top: 0;
+      left: 0;
+      position: absolute;
+      padding: $padding__content * 2;
+      width: 100%;
+      height: 100%;
+      background: rgba(#000, .5);
+      opacity: 0;
+      transition: opacity $transition__duration ease;
+
+      h2, p {
+        opacity: 0;
+        transform: translateY(.5rem);
+        transition: opacity $transition__duration ease, transform $transition__duration ease
+      }
+
+      h2 {
+        color: $color__text-white;
+        font-size: 1.5em
+      }
+
+      p {
+        color: rgba($color__text-white, .6);
+        font-size: .8em
+      }
+    }
+  }
+
+  .section-playground {
+    grid-template-columns: repeat(3, 1fr)
+  }
+
+  .section-about {
+    grid-template-columns: 1fr 1fr;
+
+    img {
+      padding-top: .3em;
+      order: 2
+    }
+  
+    article {
+      order: 1
+    }
+  }
+}

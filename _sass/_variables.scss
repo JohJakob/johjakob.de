@@ -1,0 +1,25 @@
+//
+// _variables.scss
+// johjakob.de
+//
+// © Johannes Jakob
+// Made with <3 in Germany
+//
+
+@font-face {font-family: 'TTHoves';font-weight: bold;font-style: normal;src: url('/assets/webfonts/39D687_0_0.eot');src: url('/assets/webfonts/39D687_0_0.eot?#iefix') format('embedded-opentype'),url('/assets/webfonts/39D687_0_0.woff2') format('woff2'),url('/assets/webfonts/39D687_0_0.woff') format('woff'),url('/assets/webfonts/39D687_0_0.ttf') format('truetype');}
+@font-face {font-family: 'TTHoves';font-weight: normal;font-style: normal;src: url('/assets/webfonts/39D687_1_0.eot');src: url('/assets/webfonts/39D687_1_0.eot?#iefix') format('embedded-opentype'),url('/assets/webfonts/39D687_1_0.woff2') format('woff2'),url('/assets/webfonts/39D687_1_0.woff') format('woff'),url('/assets/webfonts/39D687_1_0.ttf') format('truetype');}
+@font-face {font-family: 'TTHoves';font-weight: normal;font-style: italic;src: url('/assets/webfonts/39D687_2_0.eot');src: url('/assets/webfonts/39D687_2_0.eot?#iefix') format('embedded-opentype'),url('/assets/webfonts/39D687_2_0.woff2') format('woff2'),url('/assets/webfonts/39D687_2_0.woff') format('woff'),url('/assets/webfonts/39D687_2_0.ttf') format('truetype');}
+
+$color__text: #222;
+$color__text-light: #555;
+$color__text-superlight: #666;
+
+$color__text-white: #fff;
+
+$color__background: #fff;
+
+$padding__content: 1em;
+
+$max-width__main: 75%;
+
+$transition__duration: .2s;

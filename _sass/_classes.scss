@@ -1,0 +1,102 @@
+//
+// classes.scss
+// johjakob.de
+//
+// © Johannes Jakob
+// Made with <3 in Germany
+//
+
+.nav-li-active a {
+  color: $color__text
+}
+
+.section-intro {
+  margin-bottom: 4em;
+
+  p {
+    margin: 0;
+  }
+}
+
+.section-work, .section-playground, .section-about {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 1em
+}
+
+.section-work {
+  figure {
+    position: relative
+  }
+
+  img {
+    width: 100%;
+    display: block
+  }
+
+  figcaption {
+    padding: $padding__content / 1.5 $padding__content / 2 0 $padding__content / 2;
+
+    h2 {
+      font-size: 1em;
+      font-weight: bold
+    }
+
+    p {
+      color: $color__text-light;
+      font-size: .8em
+    }
+  }
+}
+
+.section-playground div {
+  position: relative;
+
+  &:before {
+    padding-top: 100%;
+    content: '';
+    display: block
+  }
+
+  iframe {
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%
+  }
+}
+
+.section-about {
+  img {
+    width: 100%
+  }
+
+  h2 {
+    margin-bottom: .5em;
+    font-size: 1.5em
+  }
+
+  p {
+    line-height: 1.5
+  }
+
+  a {
+    font-weight: bold
+  }
+}
+
+.ul-copyright {
+  margin-top: 2em;
+
+  p, a {
+    margin: 0;
+    color: $color__text-light;
+    font-size: .8em;
+    display: block
+  }
+
+  a:hover {
+    color: $color__text
+  }
+}
