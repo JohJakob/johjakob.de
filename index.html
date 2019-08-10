@@ -6,7 +6,7 @@ nav: work
 <section class="section-work">
   {% for post in site.posts %}
     {% if post.nav == 'work' %}
-      <a href="{{ post.url }}">
+      <a href="{{ post.permalink }}">
         <figure>
           {% assign images = site.static_files | where: "image", true %}
           {% for image in images %}
