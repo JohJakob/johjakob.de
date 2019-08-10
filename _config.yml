@@ -19,6 +19,12 @@ author: Johannes Jakob
 twitter_username: johjakob
 github_username:  johjakob
 
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
+
 # Build settings
 markdown: kramdown
 plugins:
