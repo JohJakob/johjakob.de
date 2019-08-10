@@ -67,23 +67,39 @@
   }
 }
 
-.section-about {
+.section-about, .section-post {
   img {
     width: 100%
   }
 
-  h2 {
-    margin-bottom: .5em;
-    font-size: 1.5em
-  }
-
   p {
+    margin-bottom: 1em;
     line-height: 1.5
   }
 
   a {
     font-weight: bold
   }
+}
+
+.section-about {
+  h2 {
+    margin-bottom: .5em;
+    font-size: 1.5em
+  }
+}
+
+.section-post {
+  h1 {
+    margin-bottom: 1em;
+    font-size: 2em
+  }
+}
+
+.div-grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2em
 }
 
 .ul-copyright {
