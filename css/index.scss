@@ -55,16 +55,13 @@ header {
   h1 {
     font-size: 1.2em;
     font-weight: normal;
-    text-transform: lowercase;
-    -moz-font-feature-settings: "salt";
-    -webkit-font-feature-settings: "salt";
-    font-feature-settings: "salt" on;
+    text-transform: lowercase
   }
 
   input {
     display: none;
 
-    &:checked ~ label span svg {
+    &:checked ~ label svg {
       transform: rotate(45deg);
     }
 
