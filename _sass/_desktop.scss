@@ -9,11 +9,8 @@
 @media (min-width: 801px) {
   // Base
 
-  header, main, footer {
-    padding: $padding__content * 2 $padding__content * 4
-  }
-
   header {
+    padding: $padding__content * 2 $padding__content * 4;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -54,7 +51,9 @@
 
   main, footer {
     margin: 0 auto;
-    max-width: $max-width__main;
+    padding: $padding__content * 2 0;
+    width: $width__main;
+    min-width: 800px
   }
 
   footer ul {
@@ -108,8 +107,10 @@
       }
 
       h2 {
+        margin-bottom: .1em;
         color: $color__text-white;
-        font-size: 1.5em
+        font-size: 1.5em;
+        line-height: 1
       }
 
       p {
