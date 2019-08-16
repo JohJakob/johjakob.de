@@ -12,6 +12,7 @@
 
 .section-intro {
   margin-bottom: 4em;
+  font-family: $font-family__regular;
 
   p {
     margin: 0;
@@ -44,6 +45,7 @@
 
     p {
       color: var(--color__text-light);
+      font-family: $font-family__regular;
       font-size: .8em
     }
   }
