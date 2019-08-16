@@ -116,3 +116,13 @@
     color: var(--color__text)
   }
 }
+
+.span-cloud {
+  &:before {
+    content: '['
+  }
+
+  &:after {
+    content: ']'
+  }
+}
