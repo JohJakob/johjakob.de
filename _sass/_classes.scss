@@ -70,6 +70,10 @@
 }
 
 .section-about, .section-post {
+  article {
+    margin-bottom: 2em
+  }
+
   img {
     width: 100%
   }
@@ -96,12 +100,6 @@
     margin-bottom: 1em;
     font-size: 2em
   }
-}
-
-.div-grid-2 {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 2em
 }
 
 .ul-copyright {

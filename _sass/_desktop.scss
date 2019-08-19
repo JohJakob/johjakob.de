@@ -138,6 +138,22 @@
       order: 1
     }
   }
+
+  .section-post {
+    article {
+      max-width: 50%
+    }
+
+    .div-grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 1.5em;
+
+      article {
+        max-width: initial
+      }
+    }
+  }
 }
 
 @media (min-width: 1113px) {
