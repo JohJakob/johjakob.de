@@ -19,15 +19,16 @@
   }
 }
 
-.section-work, .section-playground, .section-about {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-gap: 1em
-}
-
 .section-work {
-  figure {
-    position: relative
+  a {
+    figure {
+      position: relative;
+      margin-bottom: 1em;
+    }
+
+    &:last-child figure {
+      margin: 0
+    }
   }
 
   img {
@@ -75,7 +76,9 @@
   }
 
   img {
-    width: 100%
+    width: 100%;
+    display: block;
+    margin-bottom: 1em
   }
 
   p {

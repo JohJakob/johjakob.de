@@ -9,7 +9,7 @@
 @media (min-width: 801px) {
   // Base
 
-  header, main, footer {
+  header, footer {
     padding: $padding__content * 2 $padding__content * 4
   }
 
@@ -53,32 +53,48 @@
   }
 
   main, footer {
-    margin: 0 auto;
-    width: $width__main;
-    min-width: 800px
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: $grid-gap__default
   }
 
-  footer ul {
-    margin: 0 -1em;
+  main {
+    padding-bottom: 4em
+  }
 
-    li {
-      margin: 0 1em
+  footer {
+    padding-bottom: $padding__content * 2;
+
+    ul {
+      grid-column: 3 / span 8
     }
   }
 
   // Classes
 
   .section-intro {
+    grid-column: 3 / span 4;
+
     p {
-      max-width: 60%;
-      font-size: 1.2em;
+      font-size: 1.2em
     }
   }
 
-  .section-work {
-    grid-template-columns: 1fr 1fr;
+  .section-work, .section-playground, .section-about {
+    grid-column: 3 / span 8;
+    display: grid;
+    grid-gap: $grid-gap__default
+  }
 
-    figure {
+  .section-work {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: $grid-gap__default;
+
+    a figure {
+      margin: 0;
+
       &:hover {
         figcaption {
           opacity: 1;
@@ -140,17 +156,40 @@
   }
 
   .section-post {
+    grid-column: 1 / span 12;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: $grid-gap__default;
+
+    h1 {
+      grid-column: 3 / span 4
+    }
+
     article {
-      max-width: 50%
+      grid-column: 3 / span 4
+    }
+
+    figure {
+      grid-column: 3 / span 8;
+
+      img {
+        margin: 0
+      }
+    }
+
+    .figure-grid-right-edge {
+      grid-column: 8 / end;
+      grid-row: 2
     }
 
     .div-grid-2 {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      grid-gap: 1.5em;
+      grid-gap: $grid-gap__default;
+      grid-column: 3 / span 8;
 
-      article {
-        max-width: initial
+      figure {
+        grid-column: unset
       }
     }
   }
