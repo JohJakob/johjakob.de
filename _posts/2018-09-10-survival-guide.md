@@ -4,7 +4,7 @@ title: Survival in Dessau
 discipline: Print Design
 cover: survival-guide
 nav: work
-permalink: /work/survival-guide
+permalink: /survival-guide
 ---
 
 Every summer, the 2<sup>nd</sup> semester students prepare the welcoming of new students starting in the fall semester. One part of this preparation is the creation of a so-called “Survival Guide”, a brochure with useful information on how to study and live in Dessau.

@@ -4,7 +4,7 @@ title: Espresso Cup
 discipline: Product Design
 cover: espresso-cup
 nav: work
-permalink: /work/espresso-cup
+permalink: /espresso-cup
 ---
 
 In fall semester 2018/2019, I had the chance to undergo an entire product development process. Though I am more focused on graphic and interaction design, it was one of my favorite projects in that semester.

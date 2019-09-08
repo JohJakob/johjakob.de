@@ -4,7 +4,7 @@ title: The Laboratory
 discipline: Print Design + Retouching
 cover: laboratory
 nav: work
-permalink: /work/laboratory
+permalink: /laboratory
 ---
 
 Under the working title _The Laboratory_, the course _Artistical/Experimental Design_ (fall semester 2017/2018) consolidated a series of diverting and aesthetical experiments exploring, questioning and augmenting the building blocks of design.
