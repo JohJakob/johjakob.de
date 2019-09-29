@@ -192,6 +192,10 @@
         grid-column: unset
       }
     }
+
+    .article-col-5 {
+      grid-column: 3 / span 5
+    }
   }
 }
 
