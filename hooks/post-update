@@ -1,9 +1,0 @@
-GIT_REPO=$HOME/johjakob.de
-TMP_GIT_CLONE=$(mktemp -d)
-GEMFILE=$TMP_GIT_CLONE/Gemfile
-PUBLIC_WWW=/var/www/virtual/$USER/html
-
-git clone $GIT_REPO $TMP_GIT_CLONE
-BUNDLE_GEMFILE=$GEMFILE bundle install --path vendor/bundle
-BUNDLE_GEMFILE=$GEMFILE bundle exec jekyll build --source $TMP_GIT_CLONE --destination $PUBLIC_WWW
-rm -Rf $TMP_GIT_CLONE
