@@ -56,7 +56,7 @@
     padding: 0;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
-    grid-gap: $grid-gap__default
+    grid-gap: $grid__gap-default
   }
 
   main {
@@ -85,13 +85,13 @@
   .section-work, .section-playground, .section-about {
     grid-column: 3 / span 8;
     display: grid;
-    grid-gap: $grid-gap__default
+    grid-gap: $grid__gap-default
   }
 
   .section-work {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: $grid-gap__default;
+    grid-gap: $grid__gap-default;
 
     a figure {
       margin: 0;
@@ -147,7 +147,7 @@
     grid-column: 1 / end;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
-    grid-gap: $grid-gap__default;
+    grid-gap: $grid__gap-default;
 
     h1 {
       grid-column: 3 / span 4
@@ -181,7 +181,7 @@
     .div-grid-2 {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      grid-gap: $grid-gap__default;
+      grid-gap: $grid__gap-default;
       grid-column: 3 / span 8;
 
       figure {
@@ -195,6 +195,13 @@
 
     .div-grid-left {
       grid-column-start: 1
+    }
+
+    .article-dedication {
+      grid-column: 3 / span 8;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: $grid__gap-default;
     }
 
     .article-col-5 {

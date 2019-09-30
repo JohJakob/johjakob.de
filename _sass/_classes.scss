@@ -94,7 +94,8 @@
 .section-about {
   h1 {
     margin-bottom: .5em;
-    font-size: 1.5em
+    font-size: 1.5em;
+    line-height: 1.2
   }
 }
 
@@ -106,8 +107,37 @@
   }
 }
 
-.p-light {
-  color: var(--color__text-superlight)
+.article-dedication {
+  h2 {
+    grid-column: 1 / end
+  }
+
+  figure {
+    position: relative
+  }
+
+  figcaption {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    padding: $padding__content;
+    width: 100%;
+    background: linear-gradient(to top, rgba(#000, .75), rgba(#000, 0));
+
+    h2 {
+      margin-bottom: .1em;
+      font-size: 1.5em;
+      line-height: 1
+    }
+
+    p {
+      margin: 0;
+      color: darken($color__text-white, 30%);
+      font-family: $font-family__regular;
+      font-size: .8em;
+      line-height: 1
+    }
+  }
 }
 
 .ul-skills {
@@ -139,6 +169,10 @@
   }
 }
 
+.p-light {
+  color: var(--color__text-superlight)
+}
+
 .span-cloud {
   &:before {
     content: '['
@@ -151,4 +185,8 @@
 
 .a-mail:after {
   content: attr(data-name) "@" attr(data-domain) "." attr(data-tld);
+}
+
+.img-shadow {
+  box-shadow: 0 8px 40px var(--color__img-shadow)
 }

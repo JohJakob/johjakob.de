@@ -18,6 +18,8 @@
 
   --color__background: #fff;
   --color__background-skills: #f3f3f3;
+
+  --color__img-shadow: rgba(0, 0, 0, .2);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -27,7 +29,9 @@
     --color__text-superlight: #888;
 
     --color__background: #222;
-    --color__background-skills: #444
+    --color__background-skills: #444;
+
+    --color__img-shadow: transparent
   }
 }
 
@@ -38,7 +42,7 @@ $font-family__regular: 'TTHoves-Regular', 'TTHoves', -apple-system, BlinkMacSyst
 
 $padding__content: 20px;
 
-$grid-gap__default: 20px;
+$grid__gap-default: 20px;
 
 $width__main: 75%;
 
