@@ -8,7 +8,7 @@ permalink: /laboratory
 ---
 
 <figure class="figure-grid-full">
-  <img src="/assets/images/laboratory/panorama-laboratory.jpg" srcset="/assets/images/laboratory/panorama-laboratory@2x.jpg 2x" alt="Panorama of the exhibition">
+  <img src="/assets/images/laboratory/laboratory-panorama.jpg" srcset="/assets/images/laboratory/laboratory-panorama@2x.jpg 2x" alt="Panorama of the exhibition">
 </figure>
 <article class="article-col-5" markdown="1">
 Under the working title _The Laboratory_, the course _Artistical/Experimental Design_ (fall semester 2017/2018) consolidated a series of diverting and aesthetical experiments exploring, questioning and augmenting the building blocks of design.
