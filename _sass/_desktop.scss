@@ -156,7 +156,7 @@
   }
 
   .section-post {
-    grid-column: 1 / span 12;
+    grid-column: 1 / end;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     grid-gap: $grid-gap__default;
@@ -177,9 +177,13 @@
       }
     }
 
-    .figure-grid-right-edge {
+    .figure-grid-right {
       grid-column: 8 / end;
       grid-row: 2
+    }
+
+    .figure-grid-full {
+      grid-column: 1 / span 12;
     }
 
     .div-grid-2 {
@@ -191,6 +195,14 @@
       figure {
         grid-column: unset
       }
+    }
+
+    .div-grid-2-large {
+      grid-column: 3 / span 10
+    }
+
+    .div-grid-left {
+      grid-column-start: 1
     }
 
     .article-col-5 {
