@@ -4,9 +4,48 @@ nav: about
 ---
 
 <section class="section-about">
-  <img src="/assets/images/about/johannes-jakob.jpg">
+  <figure class="figure-grid-text-right">
+    <img src="/assets/images/about/johannes-jakob.jpg">
+  </figure>
+  <h1>Hey there, nice to meet you!</h1>
   <article>
-    <h2>Hey there, nice to meet you!</h2>
-    <p>I am a multidisciplinary designer, currently studying Integrated Design at <a href="https://hs-anhalt.de/en">Anhalt University of Applied Sciences</a> in the Bauhaus city of Dessau in Germany.</p>
+    <p>I am a multidisciplinary designer, currently studying Graphic Design at <a href="https://plymouthart.ac.uk">Plymouth College of Art</a> in a semester abroad.</p>
+    <p>In April 2020, I will continue studying Integrated Design at <a href="https://hs-anhalt.de/en">Anhalt University of Applied Sciences</a> in the Bauhaus city of Dessau in Germany.</p>
+    <p>I work in multiple design disciplines such as</p>
+    <ul class="ul-skills">
+      <li>Communication Design</li>
+      <li>Graphic Design</li>
+      <li>Typography</li>
+      <li>Photography</li>
+      <li>Industrial Design</li>
+      <li>Human Interface Design</li>
+      <li>Interaction Design</li>
+      <li>Motion Design</li>
+    </ul>
+    <p>complemented by app and web development.</p>
+    <p>From September 2016 to August 2017, I participated in a voluntary ecological year.</p>
+    <p>If you want to work with me or just say hi, you can reach me via <a class="a-mail" href="#" data-name="hi" data-domain="johjakob" data-tld="de" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld; return false;"></a>, <a href="https://twitter.com/JohJakob">Twitter</a> or <a href="https://t.me/JohJakob">Telegram</a>.</p>
   </article>
+  <div class="div-dedication">
+    <h2>Workshops + Commitment</h2>
+    {% for post in site.posts %}
+      {% if post.nav == 'about' %}
+        <a href="{{ post.permalink }}">
+          <figure>
+            {% assign images = site.static_files | where: "image", true %}
+            {% for image in images %}
+              {% if image.basename == post.cover %}
+                {% assign basename_path = image.path | split: "." %}
+                <img src="{{ image.path }}" srcset="{{ basename_path[0] }}@2x{{ image.extname }} 2x">
+              {% endif %}
+            {% endfor %}
+            <figcaption>
+              <h2>{{ post.title }}</h2>
+              <p>{{ post.discipline }}</p>
+            </figcaption>
+          </figure>
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
 </section>
