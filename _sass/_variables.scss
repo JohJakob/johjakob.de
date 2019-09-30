@@ -16,7 +16,8 @@
   --color__text-light: #555;
   --color__text-superlight: #666;
 
-  --color__background: #fff
+  --color__background: #fff;
+  --color__background-skills: #f3f3f3;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -25,7 +26,8 @@
     --color__text-light: #aaa;
     --color__text-superlight: #888;
 
-    --color__background: #222
+    --color__background: #222;
+    --color__background-skills: #444
   }
 }
 

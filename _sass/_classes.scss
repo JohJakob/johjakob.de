@@ -92,7 +92,7 @@
 }
 
 .section-about {
-  h2 {
+  h1 {
     margin-bottom: .5em;
     font-size: 1.5em
   }
@@ -108,6 +108,20 @@
 
 .p-light {
   color: var(--color__text-superlight)
+}
+
+.ul-skills {
+  margin-bottom: 1em;
+  display: flex;
+  flex-wrap: wrap;
+  line-height: 1.5;
+
+  li {
+    margin: .2em .4em .2em 0;
+    padding: .5em .8em;
+    background: var(--color__background-skills);
+    border-radius: 6px
+  }
 }
 
 .ul-copyright {
@@ -133,4 +147,8 @@
   &:after {
     content: ']'
   }
+}
+
+.a-mail:after {
+  content: attr(data-name) "@" attr(data-domain) "." attr(data-tld);
 }

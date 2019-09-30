@@ -143,20 +143,7 @@
     grid-template-columns: repeat(3, 1fr)
   }
 
-  .section-about {
-    grid-template-columns: 1fr 1fr;
-
-    img {
-      padding-top: .3em;
-      order: 2
-    }
-  
-    article {
-      order: 1
-    }
-  }
-
-  .section-post {
+  .section-about, .section-post {
     grid-column: 1 / end;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
@@ -188,7 +175,7 @@
     }
 
     .figure-grid-full {
-      grid-column: 1 / span 12;
+      grid-column: 1 / end;
     }
 
     .div-grid-2 {
