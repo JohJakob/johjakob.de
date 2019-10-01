@@ -74,12 +74,7 @@
   // Classes
 
   .section-intro {
-    grid-column: 3 / span 4;
-
-    p {
-      margin-bottom: .8em;
-      font-size: 1.2em
-    }
+    grid-column: 3 / span 4
   }
 
   .section-work, .section-playground, .section-about {

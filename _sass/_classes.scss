@@ -11,11 +11,13 @@
 }
 
 .section-intro {
-  margin-bottom: 3em;
+  margin-bottom: 2em;
   font-family: $font-family__regular;
 
   p {
     margin: 0;
+    margin-bottom: .8em;
+    font-size: 1.2em
   }
 }
 
