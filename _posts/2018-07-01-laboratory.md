@@ -4,7 +4,7 @@ title: The Laboratory
 discipline: Print Design + Retouching
 cover: laboratory
 nav: work
-permalink: /laboratory
+permalink: /laboratory/
 ---
 
 <figure class="figure-grid-full">

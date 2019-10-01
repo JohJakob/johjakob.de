@@ -4,7 +4,7 @@ title: Build your Online Portfolio
 discipline: Workshop
 cover: portfolio-workshop
 nav: about
-permalink: /portfolio-workshop
+permalink: /portfolio-workshop/
 ---
 
 <figure class="figure-grid-text-right">

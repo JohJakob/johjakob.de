@@ -4,7 +4,7 @@ title: Stephan Jakob
 discipline: Corporate Design
 cover: stephan-jakob
 nav: work
-permalink: /stephan-jakob
+permalink: /stephan-jakob/
 ---
 
 <article markdown="1">

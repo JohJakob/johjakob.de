@@ -4,7 +4,7 @@ title: Espresso Cup
 discipline: Product Design
 cover: espresso-cup
 nav: work
-permalink: /espresso-cup
+permalink: /espresso-cup/
 ---
 
 <figure class="figure-grid-text-right">

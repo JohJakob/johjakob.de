@@ -4,7 +4,7 @@ title: Survival in Dessau
 discipline: Print Design
 cover: survival-guide
 nav: work
-permalink: /survival-guide
+permalink: /survival-guide/
 ---
 
 <article markdown="1">
