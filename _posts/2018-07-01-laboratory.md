@@ -11,9 +11,9 @@ permalink: /laboratory/
   <img src="/assets/images/laboratory/laboratory-panorama.jpg" srcset="/assets/images/laboratory/laboratory-panorama@2x.jpg 2x" alt="Panorama of the exhibition">
 </figure>
 <article class="article-col-5" markdown="1">
-Under the working title _The Laboratory_, the course _Artistical/Experimental Design_ (fall semester 2017/2018) consolidated a series of diverting and aesthetical experiments exploring, questioning and augmenting the building blocks of design.
+Under the working title _The Laboratory_, the class _Artistical/Experimental Design_ consolidated a series of diverting and aesthetical experiments exploring, questioning, and augmenting the building blocks of design.
 
-At the end of the semester, a book was created to showcase selected works. It is divided into seven chapters, one for each topic the students explored during the course. It was also used to document the exhibition at _Dessau Design Schau 2018_.
+At the end of the semester, a book was created to showcase selected works. It is divided into seven chapters, one for each topic the students approached during the course. It was also used to document the exhibition at _Dessau Design Schau 2018_.
 
 In the book’s creation process, I was in charge of creating the layout alongside Christian Kirchner, typesetting, and editing the photos of the selected artworks.
 

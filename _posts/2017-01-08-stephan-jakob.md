@@ -8,7 +8,7 @@ permalink: /stephan-jakob/
 ---
 
 <article markdown="1">
-In March 2017, my father Stephan Jakob started working independently as a child and adolescent psychiatrist and opened his office in Halle (Saale), Germany. He appointed me to create a corporate design for the office, including a logo, a website, flyers, business cards, and signage.
+I created a corporate design for my father who started working independently as a child and adolescent psychiatrist and opened his office in my hometown in 2017. This included a logo, a website, leaflets, business cards, and signage.
 
 [Visit the website](https://kinderpsychiater-jakob-halle.de)
 </article>
