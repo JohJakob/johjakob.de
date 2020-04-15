@@ -8,9 +8,9 @@ permalink: /survival-guide/
 ---
 
 <article markdown="1">
-Every summer, the 2<sup>nd</sup> semester students prepare the welcoming of new students at Dessau Department of Design. Part of this preparation is the creation of the “Survival Guide”, a brochure containing useful information on how to study and live in the city of Dessau.
+Every summer, the first year students prepare the welcoming of new students at _Dessau Department of Design_ starting in fall. Part of this preparation is the creation of the “Survival Guide”, a brochure containing useful advice on how to study and live in the city of Dessau.
 
-Last year, I took over this task and designed a leaflet providing important information about the campus’s studios and workshops, different student societies, where to eat, clubs and bars in the Bauhaus city, and more on one side, and a map of Dessau’s inner city with the most relevant locations on the other side.
+In 2018, I took over this task and designed a leaflet providing essential information about the campus’s studios and workshops, different student societies, where to eat, clubs and bars, and more. On the flip side, a map of Dessau’s inner city is shown with the most relevant locations labeled.
 </article>
 <div class="div-grid-2">
 <figure>
