@@ -13,7 +13,7 @@ permalink: /portfolio-workshop/
 <article markdown="1">
 A well-designed online portfolio is vital to one’s career as a designer. In the spring of 2019, I conducted a four day workshop together with [Felix Koppe](https://instagr.am/flxkpe) to give other students the opportunity to create an online portfolio from scratch in the form of a modern, responsive, and fast website.
 
-Felix and I taught the fundamentals of HTML, CSS, and the easy-to-use content management system [Vapid](https://vapid.com), gave advice on how to create a basic HTML page structure and manage, and helped making more complex layouts. Even though the majority of the attendees has never worked with web technologies before, the end results were remarkable.
+Felix and I taught the fundamentals of HTML, CSS, and the easy-to-use content management system [Vapid](https://vapid.com), gave advice on how to create a basic HTML page structure and manage content, and helped making more complex layouts. Even though the majority of the attendees has never worked with web technologies before, the results were remarkable.
 </article>
 <div class="div-grid-2">
   <figure>
