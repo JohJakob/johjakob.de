@@ -13,5 +13,5 @@ jobs:
 
     - name: Build static site
       run: |
-        cd $GITHUB_WORKSPACE
+        bundle install
         bundle exec jekyll build --destination ~/html
