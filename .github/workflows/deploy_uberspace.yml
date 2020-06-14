@@ -12,4 +12,6 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Build static site
-      run: bundle exec jekyll build --destination ~/html
+      run: |
+        cd $GITHUB_WORKSPACE
+        bundle exec jekyll build --destination ~/html
