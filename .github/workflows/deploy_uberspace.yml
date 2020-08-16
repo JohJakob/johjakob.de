@@ -1,0 +1,19 @@
+name: deploy_uberspace
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: self-hosted
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Build static site
+      run: |
+        cd $GITHUB_WORKSPACE
+        bundle config set --local path 'vendor/bundle'
+        bundle install
+        bundle exec jekyll build --destination ~/html
