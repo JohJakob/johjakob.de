@@ -1,0 +1,118 @@
+//
+// Font Imports
+//
+
+//@import url("//hello.myfonts.net/count/3ce51b");
+  
+@font-face {
+  font-family: 'Bauziet-Norm-Light';
+  src: url('/assets/fonts/Bauziet-Norm-Light/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Norm-Light/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Norm-Medium';
+  src: url('/assets/fonts/Bauziet-Norm-Medium/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Norm-Medium/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Norm-LightItalic';
+  src: url('/assets/fonts/Bauziet-Norm-LightItalic/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Norm-LightItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet';
+  font-style: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  src: url('/assets/fonts/Bauziet/normal_normal_normal.woff2') format('woff2'), url('/assets/fonts/Bauziet/normal_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet';
+  font-style: italic;
+  font-weight: normal;
+  font-stretch: normal;
+  src: url('/assets/fonts/Bauziet/italic_normal_normal.woff2') format('woff2'), url('/assets/fonts/Bauziet/italic_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Wide-ExtraBold';
+  src: url('/assets/fonts/Bauziet-Wide-ExtraBold/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Wide-ExtraBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Wide-ExtraBoldItalic';
+  src: url('/assets/fonts/Bauziet-Wide-ExtraBoldItalic/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Wide-ExtraBoldItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Wide-BoldItalic';
+  src: url('/assets/fonts/Bauziet-Wide-BoldItalic/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Wide-BoldItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Wide-Bold';
+  src: url('/assets/fonts/Bauziet-Wide-Bold/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Wide-Bold/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Variable';
+  src: url('/assets/fonts/Bauziet-Variable/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Variable/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Wide-MediumItalic';
+  src: url('/assets/fonts/Bauziet-Wide-MediumItalic/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Wide-MediumItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Wide-Regularltalic';
+  src: url('/assets/fonts/Bauziet-Wide-Regularltalic/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Wide-Regularltalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Wide-Medium';
+  src: url('/assets/fonts/Bauziet-Wide-Medium/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Wide-Medium/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Wide-SemiBoldItalic';
+  src: url('/assets/fonts/Bauziet-Wide-SemiBoldItalic/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Wide-SemiBoldItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Wide-Regular';
+  src: url('/assets/fonts/Bauziet-Wide-Regular/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Wide-Regular/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Wide-SemiBold';
+  src: url('/assets/fonts/Bauziet-Wide-SemiBold/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Wide-SemiBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Wide-LightItalic';
+  src: url('/assets/fonts/Bauziet-Wide-LightItalic/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Wide-LightItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Wide-Light';
+  src: url('/assets/fonts/Bauziet-Wide-Light/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Wide-Light/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet';
+  font-style: italic;
+  font-weight: bold;
+  font-stretch: normal;
+  src: url('/assets/fonts/Bauziet/italic_normal_bold.woff2') format('woff2'), url('/assets/fonts/Bauziet/italic_normal_bold.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Norm-ExtraBold';
+  src: url('/assets/fonts/Bauziet-Norm-ExtraBold/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Norm-ExtraBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Norm-ExtraBoldItalic';
+  src: url('/assets/fonts/Bauziet-Norm-ExtraBoldItalic/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Norm-ExtraBoldItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet';
+  font-style: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  src: url('/assets/fonts/Bauziet/normal_normal_bold.woff2') format('woff2'), url('/assets/fonts/Bauziet/normal_normal_bold.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Norm-SemiBoldItalic';
+  src: url('/assets/fonts/Bauziet-Norm-SemiBoldItalic/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Norm-SemiBoldItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Norm-SemiBold';
+  src: url('/assets/fonts/Bauziet-Norm-SemiBold/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Norm-SemiBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bauziet-Norm-MediumItalic';
+  src: url('/assets/fonts/Bauziet-Norm-MediumItalic/font.woff2') format('woff2'), url('/assets/fonts/Bauziet-Norm-MediumItalic/font.woff') format('woff');
+}
