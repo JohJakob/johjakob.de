@@ -8,23 +8,31 @@ nav: work
   <p>I am a graphic and motion designer, currently studying Integrated Design at Dessau Department of Design.</p>
 </section>
 <section class="section-work">
-  {% for post in site.posts %}
-    {% if post.nav == 'work' %}
-      <a href="{{ post.permalink }}">
-        <figure>
-          {% assign images = site.static_files | where: "image", true %}
-          {% for image in images %}
-            {% if image.basename == post.cover %}
-              {% assign basename_path = image.path | split: "." %}
-              <img src="{{ image.path }}" srcset="{{ basename_path[0] }}@2x{{ image.extname }} 2x">
-            {% endif %}
-          {% endfor %}
-          <figcaption>
-            <h2>{{ post.title }}</h2>
-            <p>{{ post.discipline }}</p>
-          </figcaption>
-        </figure>
-      </a>
-    {% endif %}
-  {% endfor %}
+  <ul>
+    {% for post in site.posts %}
+      {% if post.nav == 'work' %}
+        <li>
+          <a href="{{ post.permalink }}">
+            <div class="cover-image">
+              <picture>
+                {% assign images = site.static_files | where: "image", true %}
+                {% for image in images %}
+                  {% if image.basename == post.cover %}
+                    {% assign basename_path = image.path | split: "." %}
+                    <img src="{{ image.path }}" srcset="{{ basename_path[0] }}@2x{{ image.extname }} 2x">
+                  {% endif %}
+                {% endfor %}
+              </picture>
+            </div>
+            <div class="project-details">
+              <div>
+                <h2>{{ post.title }}</h2>
+                <p>{{ post.discipline }}</p>
+              </div>
+            </div>
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 </section>
