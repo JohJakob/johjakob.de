@@ -1,0 +1,25 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width">
+  <meta name="author" content="Johannes Jakob">
+  <meta name="language" content="{% if page.lang %}{{ page.lang }}{% else %}en{% endif %}">
+  <meta name="theme-color" content="#000000">
+  {% if page.type == 'legal' %}
+    <meta name="robots" content="noindex">
+  {% endif %}
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:creator" content="@JohJakob">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.description }}">
+  <meta name="twitter:image" content="{{ '/apple-touch-icon.png' | absolute_url }}">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.description }}">
+  <meta property="og:url" content="{{ site.url }}">
+  <meta property="og:image" content="{{ '/open-graph-image.png' | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="{% if page.locale %}{{ page.locale }}{% else %}en_GB{% endif %}">
+  <link rel="stylesheet" href="{{ '/css/styles.css' | relative_url }}" media="screen">
+  <link rel="mask-icon" href="{{ '/safari-tab-icon.svg' | relative_url }}" color="#000000" sizes="any">
+  <link rel="icon" type="image/x-icon" href="{{ '/favicon.png' | relative_url }}">
+</head>
