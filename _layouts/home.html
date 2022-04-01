@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="{% if page.lang %}{{ page.lang }}{% else %}en{% endif %}">
+  {% include head.html %}
+  <body class="home">
+    <main>
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </body>
+</html>
