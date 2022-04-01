@@ -4,7 +4,6 @@
   <meta name="viewport" content="width=device-width">
   <meta name="author" content="Johannes Jakob">
   <meta name="language" content="{% if page.lang %}{{ page.lang }}{% else %}en{% endif %}">
-  <meta name="theme-color" content="#000000">
   {% if page.type == 'legal' %}
     <meta name="robots" content="noindex">
   {% endif %}
@@ -20,6 +19,5 @@
   <meta property="og:type" content="website">
   <meta property="og:locale" content="{% if page.locale %}{{ page.locale }}{% else %}en_GB{% endif %}">
   <link rel="stylesheet" href="{{ '/css/styles.css' | relative_url }}" media="screen">
-  <link rel="mask-icon" href="{{ '/safari-tab-icon.svg' | relative_url }}" color="#000000" sizes="any">
   <link rel="icon" type="image/x-icon" href="{{ '/favicon.png' | relative_url }}">
 </head>
