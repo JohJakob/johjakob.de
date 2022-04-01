@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html lang="{% if page.lang %}{{ page.lang }}{% else %}en{% endif %}">
   {% include head.html %}
-  <body class="legal">
+  <body class="home">
     <main>
-      {% if page.type == 'legal' %}
-        <a class="back-link" href="/">&larr; Back</a>
-      {% endif %}
       {{ content }}
     </main>
     {% include footer.html %}

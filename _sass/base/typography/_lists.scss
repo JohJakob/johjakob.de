@@ -1,0 +1,27 @@
+ul, ol {
+  padding-left: 2em;
+}
+
+.social-links, .legal {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+
+  li {
+    margin-right: 2em;
+
+    &:last-child {
+      margin-right: 0;
+    }
+
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+.social-links {
+  margin-top: 4em;
+}

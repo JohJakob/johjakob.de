@@ -1,0 +1,24 @@
+a {
+  color: inherit;
+  text-decoration-skip-ink: all;
+  transition: color .2s ease-out, border-color .2s ease-out;
+}
+
+a.mail-address:after {
+  content: attr(data-name) "@" attr(data-domain) "." attr(data-tld);
+}
+
+a.back-link {
+  margin-bottom: 3em;
+  padding: .5em 1em;
+  color: $color-black_50;
+  text-decoration: none;
+  border: 1px solid $color-black_50;
+  border-radius: 2em;
+  display: inline-block;
+
+  &:hover {
+    color: $color-black;
+    border-color: $color-black;
+  }
+}
