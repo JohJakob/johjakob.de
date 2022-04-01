@@ -1,0 +1,9 @@
+header, main, footer {
+  padding: 1.5rem;
+  width: 100%;
+  max-width: $max_width-content;
+}
+
+main {
+  flex: 1 0 auto;
+}

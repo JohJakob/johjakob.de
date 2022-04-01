@@ -1,0 +1,12 @@
+footer {
+  color: $color-black_30;
+  font-size: .8em;
+
+  a {
+    transition: all .2s ease-out;
+
+    &:hover {
+      color: $color-black_50;
+    }
+  }
+}
