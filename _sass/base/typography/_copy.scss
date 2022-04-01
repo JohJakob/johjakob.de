@@ -1,0 +1,15 @@
+main {
+  p, ul, ol {
+    max-width: $max_width-text;
+    color: $color-black_70;
+    line-height: 1.5;
+  }
+
+  & > *:first-child {
+    margin-top: 0;
+  }
+}
+
+strong {
+  font-weight: 450;
+}

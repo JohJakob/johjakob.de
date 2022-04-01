@@ -1,0 +1,10 @@
+html[lang=de] main {
+  p {
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -ms-hyphenate-limit-chars: 6;
+    -ms-hyphenate-limit-lines: 3;
+  }
+}
