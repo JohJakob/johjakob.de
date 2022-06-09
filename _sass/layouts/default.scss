@@ -7,3 +7,10 @@ header, main, footer {
 main {
   flex: 1 0 auto;
 }
+
+@supports (padding: max(0px)) {
+  header, main, footer {
+    padding-left: Max(1.5rem, env(safe-area-inset-left));
+    padding-right: Max(1.5rem, env(safe-area-inset-right));
+  }
+}
