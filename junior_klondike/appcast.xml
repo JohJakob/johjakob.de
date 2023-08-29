@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Junior Klondike</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 29 Aug 2023 10:11:54 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="12563457" type="application/octet-stream" sparkle:edSignature="v7AqJRmu0ZHWq7IaoYrh7kAGqqugq5AsF1YGrcPshPw5hAtTYrqSl3KTPDTnTX70WhlrKMmb2epPBks7oKFBCw=="/>
+        </item>
+    </channel>
+</rss>
