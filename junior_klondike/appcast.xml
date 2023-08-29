@@ -4,6 +4,21 @@
         <title>Junior Klondike</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 29 Aug 2023 16:34:37 +0200</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="20480557" type="application/octet-stream" sparkle:edSignature="//aCaVsI7T+KCtmJrttAZ9Pe+7esRzDEpHHWHxd1zT1mXAPlH3TvyrKsCGj/kea+LXtzTSx2L56mb5hmbvzlAg=="/>
+						<description sparkle:format="plain-text">
+							• Added an app icon
+							• Added the Mage and Fool card deck
+							• Removed unused menus and menu items
+
+							• Fixed the absence of a dialog when winning the game
+						</description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 29 Aug 2023 12:40:29 +0200</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -17,14 +32,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="12564173" type="application/octet-stream" sparkle:edSignature="df/hI09ply87cLS9lq05xixh5FHKr4r1cwTYi5HOLseAiBit2QMhiUwIGMuxYPYHSXxUbhqdDfSmpitTXwcnCQ=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Tue, 29 Aug 2023 11:37:32 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="12563974" type="application/octet-stream" sparkle:edSignature="0vLHhlsmzbyk9iDuOSGogVCCmtwTxwcA7tVfIgU3DcnM0/APSXKGQD7KZRmfhk2qMsS+EI3MEbZasNttvaBfBQ=="/>
         </item>
     </channel>
 </rss>
