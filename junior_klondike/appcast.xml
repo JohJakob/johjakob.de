@@ -4,6 +4,14 @@
         <title>Junior Klondike</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 29 Aug 2023 11:37:32 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="12563974" type="application/octet-stream" sparkle:edSignature="0vLHhlsmzbyk9iDuOSGogVCCmtwTxwcA7tVfIgU3DcnM0/APSXKGQD7KZRmfhk2qMsS+EI3MEbZasNttvaBfBQ=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 29 Aug 2023 10:11:54 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
