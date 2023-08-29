@@ -10,11 +10,11 @@
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="20480557" type="application/octet-stream" sparkle:edSignature="//aCaVsI7T+KCtmJrttAZ9Pe+7esRzDEpHHWHxd1zT1mXAPlH3TvyrKsCGj/kea+LXtzTSx2L56mb5hmbvzlAg=="/>
 						<description sparkle:format="plain-text">
-							• Added an app icon
-							• Added the Mage and Fool card deck
-							• Removed unused menus and menu items
+• Added an app icon
+• Added the Mage and Fool card deck
+• Removed unused menus and menu items
 
-							• Fixed the absence of a dialog when winning the game
+• Fixed the absence of a dialog when winning the game
 						</description>
         </item>
         <item>
