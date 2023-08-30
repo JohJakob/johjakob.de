@@ -13,12 +13,12 @@
 • Updated the layout of the board
 • Added variable spacing of cards in a stack based on the available space
 • Added a slight jitter to card stacks
-• Added a Deck & Game Settings button in the titlebar (currently only allows changing the deck by right-clicking)
+• Added a Deck &amp; Game Settings button in the titlebar (currently only allows changing the deck by right-clicking)
 
 • Removed the confirmation dialog when starting a new game
 
 • Fixed the incorrect positioning of cards in a stack after dropping them
-• Fixed an issue that caused the app to quit unexpectedly when a font was not installed on the user's device
+• Fixed an issue that caused the app to quit unexpectedly when a font was not installed on the user&#700;s device
 					</description>
         </item>
         <item>
