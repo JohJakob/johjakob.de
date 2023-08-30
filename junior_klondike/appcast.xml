@@ -19,6 +19,7 @@
 
 • Fixed the incorrect positioning of cards in a stack after dropping them
 • Fixed an issue that caused the app to quit unexpectedly when a font was not installed on the user’s device
+					</description>
         </item>
         <item>
             <title>1.0</title>
