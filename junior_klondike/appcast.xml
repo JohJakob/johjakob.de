@@ -4,21 +4,38 @@
         <title>Junior Klondike</title>
         <item>
             <title>1.0</title>
+            <pubDate>Fri, 01 Sep 2023 10:52:12 +0200</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="20549409" type="application/octet-stream" sparkle:edSignature="0aKhFAGHPMahRhbO4v/WLvSoIOuHo7GRaj6PkAZ/+r8hEwtS+vIJ6xsZCleH2HejgO75tjlG1YRy0p1LSBiiBw=="/>
+						<description>• Added visual effects to the cards
+• Added a pile effect to the stock and waste stacks
+• Cards now drop onto their designated ace cell automatically
+• Added card back settings to the Deck & Game Settings context menu
+• The window now has a preferred size and a minimum size
+
+• Improved the sizing of the play area
+• Improved dropping card fans						
+						</description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Wed, 30 Aug 2023 15:52:16 +0200</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="20525906" type="application/octet-stream" sparkle:edSignature="i0cIABBXVie4twfbpISCn8ctKAHsqMWtY3zrpimoM++9qlfukSw4O1EPKdVr/0fhojyMOCN6zSEDEIonoMt+Ag=="/>
-						<description sparkle:format="plain-text">• Updated the design of the card cells
+            <description sparkle:format="plain-text">• Updated the design of the card cells
 • Updated the layout of the board
 • Added variable spacing of cards in a stack based on the available space
 • Added a slight jitter to card stacks
-• Added a Deck & Game Settings button in the titlebar (currently only allows changing the deck by right-clicking)
+• Added a Deck &amp; Game Settings button in the titlebar (currently only allows changing the deck by right-clicking)
 
 • Removed the confirmation dialog when starting a new game
 
 • Fixed the incorrect positioning of cards in a stack after dropping them
-• Fixed an issue that caused the app to quit unexpectedly when a font was not installed on the user's device
+• Fixed an issue that caused the app to quit unexpectedly when a font was not installed on the userʼs device
 					</description>
         </item>
         <item>
@@ -34,14 +51,6 @@
 
 • Fixed the absence of a dialog when winning the game
 						</description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Tue, 29 Aug 2023 12:40:29 +0200</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="12565270" type="application/octet-stream" sparkle:edSignature="6trZ/BXH8OVDUBQG3EC2nUUMUZp5hXumH9nilQCPt+OjX2qvfBjXv2DrXotMyLfQsJIyV4STY9FJffCgrxXKAw=="/>
         </item>
     </channel>
 </rss>
