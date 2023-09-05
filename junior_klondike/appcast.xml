@@ -4,12 +4,22 @@
         <title>Junior Klondike</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 05 Sep 2023 09:01:28 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="20558840" type="application/octet-stream" sparkle:edSignature="YL5fPkn5XWW8L7Ztua0N4eCqRU78/2bP0Krjzz3lXaharT8aV+RK7u6p1lOxX1ESZRWFn4Rry3SH8B7zh3b7CQ=="/>
+						<description>• Changed the colour space of colours used in the app
+						</description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Mon, 04 Sep 2023 13:19:09 +0200</pubDate>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="20558715" type="application/octet-stream" sparkle:edSignature="cQ2Gm6rce0SYvMb+dNdQaXNauibWOc9oRCN5rNVljTUfXs2g9d6kaxj3qKGmXcWIB7IYay7r2WRzPZQG4iDBCA=="/>
-						<description>• Added a scale effect when dragging cards
+            <description>• Added a scale effect when dragging cards
 • Cards can now be automatically moved to (other) tableau stacks, preferring the largest stack
 • The whole tableau stacks are now used as drop zones for cards and card fans
 • Secondary clicks (right mouse button clicks) can now be used to automatically move cards
@@ -35,25 +45,6 @@
 • Improved the sizing of the play area
 • Improved dropping card fans						
 						</description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Wed, 30 Aug 2023 15:52:16 +0200</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="20525906" type="application/octet-stream" sparkle:edSignature="i0cIABBXVie4twfbpISCn8ctKAHsqMWtY3zrpimoM++9qlfukSw4O1EPKdVr/0fhojyMOCN6zSEDEIonoMt+Ag=="/>
-            <description sparkle:format="plain-text">• Updated the design of the card cells
-• Updated the layout of the board
-• Added variable spacing of cards in a stack based on the available space
-• Added a slight jitter to card stacks
-• Added a Deck &amp; Game Settings button in the titlebar (currently only allows changing the deck by right-clicking)
-
-• Removed the confirmation dialog when starting a new game
-
-• Fixed the incorrect positioning of cards in a stack after dropping them
-• Fixed an issue that caused the app to quit unexpectedly when a font was not installed on the userʼs device
-					</description>
         </item>
     </channel>
 </rss>
