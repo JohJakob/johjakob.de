@@ -11,6 +11,7 @@
             <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="21330137" type="application/octet-stream" sparkle:edSignature="QkPDCmPXzKuTet5vPwJ9D4ntEMA/9C3oDRuHpq8Ra8puf4waW1pAfbBUCojT9cIAerPFbtJX94lR1eo90YFtBg=="/>
 						<description>• Added a &quot;New Game&quot; menu command to the &quot;File&quot; menu
 • Enabled smoother gameplay on ProMotion displays
+• Ace cell stacks now look like piles too
 • Refined the appearance of the card stock cell
 • Renamed the card deck &quot;Mage and Fool&quot; to &quot;Standard&quot; and made it the default deck
 
