@@ -4,12 +4,30 @@
         <title>Junior Klondike</title>
         <item>
             <title>1.0</title>
+            <pubDate>Mon, 18 Sep 2023 10:49:08 +0200</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="21330137" type="application/octet-stream" sparkle:edSignature="QkPDCmPXzKuTet5vPwJ9D4ntEMA/9C3oDRuHpq8Ra8puf4waW1pAfbBUCojT9cIAerPFbtJX94lR1eo90YFtBg=="/>
+						<description>IMPORTANT: Before updating, please select &ldquo;Jumbo Index&rdquo; as your card deck. Junior Klondike may crash otherwise.
+
+• Added a &ldquo;New Game&rdquo; menu command to the &ldquo;File&rdquo; menu
+• Enabled smoother gameplay on ProMotion displays
+• Refined the appearance of the card stock cell
+• Renamed the card deck &ldquo;Mage and Fool&rdquo; to &ldquo;Standard&rdquo; and made it the default deck
+
+• Fixed a bug that caused the submenus in the &ldquo;View&rdquo; menu to not show the current card deck settings when the settings were changed in the titlebar context menu
+• Changed the felt and wood patterns to be anchored to the top center							
+						</description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Mon, 11 Sep 2023 11:59:46 +0200</pubDate>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="21325987" type="application/octet-stream" sparkle:edSignature="q7X0+ChbIRSOipbds7pMxhHYN6sy2krDvG0cWywzFGpd0IoAiaevgBT+choefO5EuKKLHE/aFS5uUFoSYCq/Bg=="/>
-						<description>• Updated the game environments
+            <description>• Updated the game environments
 • Updated the play area appearance
 • Updated the titlebar appearance
 
@@ -24,23 +42,6 @@
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="20558840" type="application/octet-stream" sparkle:edSignature="YL5fPkn5XWW8L7Ztua0N4eCqRU78/2bP0Krjzz3lXaharT8aV+RK7u6p1lOxX1ESZRWFn4Rry3SH8B7zh3b7CQ=="/>
             <description>• Changed the colour space of colours used in the app
-						</description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Mon, 04 Sep 2023 13:19:09 +0200</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="20558715" type="application/octet-stream" sparkle:edSignature="cQ2Gm6rce0SYvMb+dNdQaXNauibWOc9oRCN5rNVljTUfXs2g9d6kaxj3qKGmXcWIB7IYay7r2WRzPZQG4iDBCA=="/>
-            <description>• Added a scale effect when dragging cards
-• Cards can now be automatically moved to (other) tableau stacks, preferring the largest stack
-• The whole tableau stacks are now used as drop zones for cards and card fans
-• Secondary clicks (right mouse button clicks) can now be used to automatically move cards
-
-
-• Cards that are not the top-most card in the waste pile or in foundation stacks can not be dragged anymore
-• Improved animations when undoing and redoing moves
 						</description>
         </item>
     </channel>
