@@ -9,14 +9,14 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="21330137" type="application/octet-stream" sparkle:edSignature="QkPDCmPXzKuTet5vPwJ9D4ntEMA/9C3oDRuHpq8Ra8puf4waW1pAfbBUCojT9cIAerPFbtJX94lR1eo90YFtBg=="/>
-						<description>IMPORTANT&#58; Before updating, please select &ldquo;Jumbo Index&rdquo; as your card deck. Junior Klondike may crash otherwise.
+						<description>IMPORTANT: Before updating, please select &quot;Jumbo Index&quot; as your card deck. Junior Klondike may crash otherwise.
 
-• Added a &ldquo;New Game&rdquo; menu command to the &ldquo;File&rdquo; menu
+• Added a &quot;New Game&quot; menu command to the &quot;File&quot; menu
 • Enabled smoother gameplay on ProMotion displays
 • Refined the appearance of the card stock cell
-• Renamed the card deck &ldquo;Mage and Fool&rdquo; to &ldquo;Standard&rdquo; and made it the default deck
+• Renamed the card deck &quot;Mage and Fool&quot; to &quot;Standard&quot; and made it the default deck
 
-• Fixed a bug that caused the submenus in the &ldquo;View&rdquo; menu to not show the current card deck settings when the settings were changed in the titlebar context menu
+• Fixed a bug that caused the submenus in the &quot;View&quot; menu to not show the current card deck settings when the settings were changed in the titlebar context menu
 • Changed the felt and wood patterns to be anchored to the top center							
 						</description>
         </item>
