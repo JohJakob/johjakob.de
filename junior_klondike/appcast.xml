@@ -4,18 +4,31 @@
         <title>Junior Klondike</title>
         <item>
             <title>1.0</title>
+            <pubDate>Wed, 11 Oct 2023 07:58:58 +0200</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="23352516" type="application/octet-stream" sparkle:edSignature="ABXZd3U9Rz2aFk46xgcNEbb1i65PnasNcL1RtGvNrBCk7R4MdwUSRttlPeXzxahiVPJE4rYCpEYr4GyoxEzdAg=="/>
+						<description>• Added outlined suit symbols for the ace cells in the Crimson environment
+• Added the new menu title item on macOS 14 Sonoma
+
+• Improved a few things behind the scenes							
+						</description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Mon, 18 Sep 2023 10:49:08 +0200</pubDate>
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="21330137" type="application/octet-stream" sparkle:edSignature="QkPDCmPXzKuTet5vPwJ9D4ntEMA/9C3oDRuHpq8Ra8puf4waW1pAfbBUCojT9cIAerPFbtJX94lR1eo90YFtBg=="/>
-						<description>• Added a &quot;New Game&quot; menu command to the &quot;File&quot; menu
+            <description>• Added a "New Game" menu command to the "File" menu
 • Enabled smoother gameplay on ProMotion displays
 • Ace cell stacks now look like piles too
 • Refined the appearance of the card stock cell
-• Renamed the card deck &quot;Mage and Fool&quot; to &quot;Standard&quot; and made it the default deck
+• Renamed the card deck "Mage and Fool" to "Standard" and made it the default deck
 
-• Fixed a bug that caused the submenus in the &quot;View&quot; menu to not show the current card deck settings when the settings were changed in the titlebar context menu
+• Fixed a bug that caused the submenus in the "View" menu to not show the current card deck settings when the settings were changed in the titlebar context menu
 • Changed the felt and wood patterns to be anchored to the top center							
 						</description>
         </item>
@@ -31,16 +44,6 @@
 • Updated the titlebar appearance
 
 • Made cards and card cells resolution-independent
-						</description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Tue, 05 Sep 2023 09:01:28 +0200</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/junior_klondike/Junior%20Klondike.zip" length="20558840" type="application/octet-stream" sparkle:edSignature="YL5fPkn5XWW8L7Ztua0N4eCqRU78/2bP0Krjzz3lXaharT8aV+RK7u6p1lOxX1ESZRWFn4Rry3SH8B7zh3b7CQ=="/>
-            <description>• Changed the colour space of colours used in the app
 						</description>
         </item>
     </channel>
