@@ -21,4 +21,7 @@
   <meta property="og:locale" content="{% if page.locale %}{{ page.locale }}{% else %}en_GB{% endif %}">
   <link rel="stylesheet" href="{{ '/css/styles.css' | relative_url }}" media="screen">
   <link rel="icon" type="image/x-icon" href="{{ '/favicon.png' | relative_url }}">
+  {% if page.layout == 'home' %}
+    <link rel="me" href="https://mastodon.social/@johjakob">
+  {% endif %}
 </head>
