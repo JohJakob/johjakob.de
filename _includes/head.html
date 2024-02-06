@@ -3,13 +3,14 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <meta name="viewport" content="width=device-width, viewport-fit=cover">
-  <meta name="author" content="Johannes Jakob">
+  <meta name="author" content="{{ site.author }}">
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="language" content="{% if page.lang %}{{ page.lang }}{% else %}en{% endif %}">
   {% if page.type == 'legal' %}
     <meta name="robots" content="noindex">
   {% endif %}
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:creator" content="@JohJakob">
+  <meta name="twitter:creator" content="@{{ site.twitter_username }}">
   <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:description" content="{{ page.description }}">
   <meta name="twitter:image" content="{{ '/apple-touch-icon.png' | absolute_url }}">
@@ -19,9 +20,10 @@
   <meta property="og:image" content="{{ '/open-graph-image.png' | absolute_url }}">
   <meta property="og:type" content="website">
   <meta property="og:locale" content="{% if page.locale %}{{ page.locale }}{% else %}en_GB{% endif %}">
+  <meta name="pinterest" content="nopin">
   <link rel="stylesheet" href="{{ '/css/styles.css' | relative_url }}" media="screen">
   <link rel="icon" type="image/x-icon" href="{{ '/favicon.png' | relative_url }}">
   {% if page.layout == 'home' %}
-    <link rel="me" href="https://mastodon.social/@johjakob">
+    <link rel="me" href="https://mastodon.social/@{{ site.mastodon_username }}">
   {% endif %}
 </head>

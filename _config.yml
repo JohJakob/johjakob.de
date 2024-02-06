@@ -18,12 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Johannes Jakob &ndash; Graphic and Motion Designer
+title: Johannes Jakob &ndash; Designer and Artist
+author: Johannes Jakob
 email: hi@johjakob.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Johannes Jakob is an interdisciplinary designer with a focus on graphic and motion design.
+  I am a designer based in Leipzig, Germany.
+  My work focuses on designing for the visual, auditory, and haptic senses and
+  I strive to create both meaningful and delightful experiences for people.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://johjakob.com" # the base hostname & protocol for your site, e.g. http://example.com
+mastodon_username: johjakob
 twitter_username: johjakob
 github_username:  johjakob
 
