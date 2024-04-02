@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MAPO</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 02 Apr 2024 11:33:30 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="9934653" type="application/octet-stream" sparkle:edSignature="E2Qfhdtvq3vGFeT6UnX+wms65Fsg1ERhByTsI83i2g4ZxCjgQB3IfcnXC27ah1OJQyaZWIZqD+fN58HLNMXzCg=="/>
+        </item>
+    </channel>
+</rss>
