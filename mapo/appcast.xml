@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="9934653" type="application/octet-stream" sparkle:edSignature="E2Qfhdtvq3vGFeT6UnX+wms65Fsg1ERhByTsI83i2g4ZxCjgQB3IfcnXC27ah1OJQyaZWIZqD+fN58HLNMXzCg=="/>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="9943152" type="application/octet-stream" sparkle:edSignature="qYVpve1xl5bHdU4KkexwkU7JgmfgC/RfkS8foJNOdRXgkJtJGFaHB8qyulcArzRgJ/H5uqJ4zxeKZo6WUHDeCw=="/>
         </item>
     </channel>
 </rss>
