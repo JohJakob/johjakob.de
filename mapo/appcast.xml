@@ -4,6 +4,25 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Wed, 10 Apr 2024 09:29:40 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14183222" type="application/octet-stream" sparkle:edSignature="Z2zU0kQMuO7Xqjb216/PArjIfgvMCrtTqf0SQt9UUornpBSIcyn28Ik0HhWGns8ouS3I+xWKIzTU9TNcMaN2CQ=="/>
+						<description>• Added an app icon
+• Added an opening year field to locations
+
+• The inspector now shows the selected entry correctly
+• Resorts and locations are now sorted by their opening year
+• Fixed a bug that prevented empty locations from being deleted
+• MAPO windows and tabs can now have their own independent selection
+• The "New Resort" and "New Location" windows are narrower by default
+• Fixed a bug where opening the "New Resort" or "New Location" windows would not generate a new ID
+• The first available sidebar item is now automatically selected
+						</description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 02 Apr 2024 11:33:30 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
