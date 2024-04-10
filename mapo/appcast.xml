@@ -9,16 +9,23 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14183222" type="application/octet-stream" sparkle:edSignature="Z2zU0kQMuO7Xqjb216/PArjIfgvMCrtTqf0SQt9UUornpBSIcyn28Ik0HhWGns8ouS3I+xWKIzTU9TNcMaN2CQ=="/>
-						<description>• Added an app icon
-							• Added an opening year field to locations
-							
-							• The inspector now shows the selected entry correctly
-							• Resorts and locations are now sorted by their opening year
-							• Fixed a bug that prevented empty locations from being deleted
-							• MAPO windows and tabs can now have their own independent selection
-							• The "New Resort" and "New Location" windows are narrower by default
-							• Fixed a bug where opening the "New Resort" or "New Location" windows would not generate a new ID
-							• The first available sidebar item is now automatically selected
+						<description><![CDATA[
+        			<h2>New Features</h2>
+        			<ul>
+								<li>Added an app icon</li>
+								<li>Added an opening year field to locations</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>The inspector now shows the selected entry correctly</li>
+								<li>Resorts and locations are now sorted by their opening year</li>
+								<li>Fixed a bug that prevented empty locations from being deleted</li>
+								<li>MAPO windows and tabs can now have their own independent selection</li>
+								<li>The “New Resort” and “New Location” windows are narrower by default</li>
+								<li>Fixed a bug where opening the “New Resort” or “New Location” windows would not generate a new ID</li>
+								<li>The first available sidebar item is now automatically selected</li>
+							</ul>
+    					]]>
 						</description>
         </item>
         <item>
