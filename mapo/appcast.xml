@@ -25,7 +25,7 @@
 								<li>When creating or updating an item, only the corresponding sidebar item is selected</li>
 								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
 								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
-								<li>The “New Location” window is initially narrower than intended</li>
+								<li>The New Location window is initially narrower than intended</li>
 							</ul>
 							]]></description>
         </item>
