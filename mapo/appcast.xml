@@ -4,12 +4,39 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 16 Apr 2024 10:21:02 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14297879" type="application/octet-stream" sparkle:edSignature="VIwTsv75yocwmAmP8vr53lKLwydZg4JGZXoWcVkaxfcuxeu8ueUPBmHSvU0FoaqYG3C5DaD1r9NTBVm/J1InBQ=="/>
+						<description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+								<li>Added the ability to create and update areas (and area groups)</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>The Create Menu is now sorted based on hierarchy</li>
+								<li>Fixed a bug that caused the update installation to fail</li>
+								<li>The app now searches for updates automatically</li>
+							</ul>
+							<h2>Known Issues</h2>
+							<ul>
+								<li>When creating or updating an item, only the corresponding sidebar item is selected</li>
+								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
+								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
+								<li>The “New Location” window is initially narrower than intended</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Wed, 10 Apr 2024 09:29:40 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14183222" type="application/octet-stream" sparkle:edSignature="Z2zU0kQMuO7Xqjb216/PArjIfgvMCrtTqf0SQt9UUornpBSIcyn28Ik0HhWGns8ouS3I+xWKIzTU9TNcMaN2CQ=="/>
-						<description><![CDATA[
+            <description><![CDATA[
         			<h2>New Features</h2>
         			<ul>
 								<li>Added an app icon</li>
@@ -25,8 +52,7 @@
 								<li>Fixed a bug where opening the “New Resort” or “New Location” windows would not generate a new ID</li>
 								<li>The first available sidebar item is now automatically selected</li>
 							</ul>
-    					]]>
-						</description>
+    					]]></description>
         </item>
         <item>
             <title>1.0</title>
