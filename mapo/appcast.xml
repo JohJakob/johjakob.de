@@ -16,7 +16,7 @@
 							</ul>
 							<h2>Fixes and Improvements</h2>
 							<ul>
-								<li>The Create Menu is now sorted based on hierarchy</li>
+								<li>The Create Item and File &rarr; New menus are now sorted based on hierarchy</li>
 								<li>Fixed a bug that caused the update installation to fail</li>
 								<li>The app now searches for updates automatically</li>
 							</ul>
