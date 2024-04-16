@@ -4,12 +4,34 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 16 Apr 2024 11:06:23 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14301536" type="application/octet-stream" sparkle:edSignature="WPcfMBDadH2YhN1/pHa0LdnM0ZGMhoqeZJDDe9FKMBuWQT+aAPpi1BOXK9NRoUNnZAvXpxCiJ4WCHPU6NCNyAA=="/>
+						<description><![CDATA[
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>The currently selected area group is used as the default area group for new areas</li>
+								<li>Improved the text colours in the sidebar and content view</li>
+							</ul>
+							<h2>Known Issues</h2>
+							<ul>
+								<li>When creating or updating an item, only the corresponding sidebar item is selected</li>
+								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
+								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
+								<li>The New Location window is initially narrower than intended</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 16 Apr 2024 10:21:02 +0200</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14297879" type="application/octet-stream" sparkle:edSignature="VIwTsv75yocwmAmP8vr53lKLwydZg4JGZXoWcVkaxfcuxeu8ueUPBmHSvU0FoaqYG3C5DaD1r9NTBVm/J1InBQ=="/>
-						<description><![CDATA[
+            <description><![CDATA[
 							<h2>New Features</h2>
 							<ul>
 								<li>Added the ability to create and update areas (and area groups)</li>
@@ -53,14 +75,6 @@
 								<li>The first available sidebar item is now automatically selected</li>
 							</ul>
     					]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Tue, 02 Apr 2024 11:33:30 +0200</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="9943152" type="application/octet-stream" sparkle:edSignature="qYVpve1xl5bHdU4KkexwkU7JgmfgC/RfkS8foJNOdRXgkJtJGFaHB8qyulcArzRgJ/H5uqJ4zxeKZo6WUHDeCw=="/>
         </item>
     </channel>
 </rss>
