@@ -4,12 +4,36 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 23 Apr 2024 16:23:47 +0200</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14318854" type="application/octet-stream" sparkle:edSignature="zRL67a0cf3cegXx9oUMMsZ2K6q0aM4GQsub/cY+jNbJo2R+Spc/nXD4g6sWF5VpSbD7t6Ro0cRuvlTfP/120Cw=="/>
+						<description><![CDATA[
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Improved the inspector layout by properly aligning labels and controls</li>
+								<li>The current selection is retained after saving changes</li>
+								<li>The currently selected item is now used for the window/tab title</li>
+								<li>(Hopefully) fixed a bug that prevented over-the-air updates from being installed</li>
+							</ul>
+							<h2>Known Issues</h2>
+							<ul>
+								<li>After creating an item, it is not automatically selected</li>
+								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
+								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
+								<li>The New Location window is initially narrower than intended</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 16 Apr 2024 11:06:23 +0200</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14301536" type="application/octet-stream" sparkle:edSignature="WPcfMBDadH2YhN1/pHa0LdnM0ZGMhoqeZJDDe9FKMBuWQT+aAPpi1BOXK9NRoUNnZAvXpxCiJ4WCHPU6NCNyAA=="/>
-						<description><![CDATA[
+            <description><![CDATA[
 							<h2>Fixes and Improvements</h2>
 							<ul>
 								<li>The currently selected area group is used as the default area group for new areas</li>
@@ -50,31 +74,6 @@
 								<li>The New Location window is initially narrower than intended</li>
 							</ul>
 							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Wed, 10 Apr 2024 09:29:40 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14183222" type="application/octet-stream" sparkle:edSignature="Z2zU0kQMuO7Xqjb216/PArjIfgvMCrtTqf0SQt9UUornpBSIcyn28Ik0HhWGns8ouS3I+xWKIzTU9TNcMaN2CQ=="/>
-            <description><![CDATA[
-        			<h2>New Features</h2>
-        			<ul>
-								<li>Added an app icon</li>
-								<li>Added an opening year field to locations</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>The inspector now shows the selected entry correctly</li>
-								<li>Resorts and locations are now sorted by their opening year</li>
-								<li>Fixed a bug that prevented empty locations from being deleted</li>
-								<li>MAPO windows and tabs can now have their own independent selection</li>
-								<li>The “New Resort” and “New Location” windows are narrower by default</li>
-								<li>Fixed a bug where opening the “New Resort” or “New Location” windows would not generate a new ID</li>
-								<li>The first available sidebar item is now automatically selected</li>
-							</ul>
-    					]]></description>
         </item>
     </channel>
 </rss>
