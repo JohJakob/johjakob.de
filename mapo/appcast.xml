@@ -4,12 +4,38 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Fri, 24 May 2024 10:56:28 +0200</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="16918002" type="application/octet-stream" sparkle:edSignature="UFhOOKxUQAQC1hPYfdV0LJPGrxgp7xYmkAIWzn/Ou434RdgYJEuGmA2mQCtmRt2++jJRPNbqyPMlFobOnr+fCQ=="/>
+						<description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+								<li>Adds points of interests</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Includes important updates to third-party software dependencies</li>
+							</ul>
+							<h2>Known Issues</h2>
+							<ul>
+								<li>Selecting a category does not reveal points of interests currently</li>
+								<li>After creating an item, it is not automatically selected</li>
+								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
+								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
+								<li>The New Location window is initially narrower than intended</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Thu, 02 May 2024 11:34:09 +0200</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14316349" type="application/octet-stream" sparkle:edSignature="XlgahFjcVc4V1SFOWihfDCxHaFNKjyAeIKt2xR5xsKISNSHquke7reC7SF0rq+WVtDR2ukFDyVlg9P1HCmfRCg=="/>
-						<description><![CDATA[
+            <description><![CDATA[
 							<h2>New Features</h2>
 							<ul>
 								<li>Added categories</li>
@@ -46,28 +72,6 @@
 							<h2>Known Issues</h2>
 							<ul>
 								<li>After creating an item, it is not automatically selected</li>
-								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
-								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
-								<li>The New Location window is initially narrower than intended</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Tue, 16 Apr 2024 11:06:23 +0200</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14301536" type="application/octet-stream" sparkle:edSignature="WPcfMBDadH2YhN1/pHa0LdnM0ZGMhoqeZJDDe9FKMBuWQT+aAPpi1BOXK9NRoUNnZAvXpxCiJ4WCHPU6NCNyAA=="/>
-            <description><![CDATA[
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>The currently selected area group is used as the default area group for new areas</li>
-								<li>Improved the text colours in the sidebar and content view</li>
-							</ul>
-							<h2>Known Issues</h2>
-							<ul>
-								<li>When creating or updating an item, only the corresponding sidebar item is selected</li>
 								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
 								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
 								<li>The New Location window is initially narrower than intended</li>
