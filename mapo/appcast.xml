@@ -4,12 +4,38 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Fri, 24 May 2024 15:45:13 +0200</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="16928584" type="application/octet-stream" sparkle:edSignature="9FKErzvC1NYfWLiF3WxVuFKY7KlhKSxUeHvs9bNRfprZvusdKtjlfcHEfPy2xI+GuVf4/rIhryFDjfomqD5XBA=="/>
+						<description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+								<li>Every location/area pair of a point of interest can now have own coordinates</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Fixes an issue where category types could change when selecting point of interests</li>
+							</ul>
+							<h2>Known Issues</h2>
+							<ul>
+								<li>Selecting a category does not reveal points of interests currently</li>
+								<li>After creating an item, it is not automatically selected</li>
+								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
+								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
+								<li>The New Location window is initially narrower than intended</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Fri, 24 May 2024 10:56:28 +0200</pubDate>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="16918002" type="application/octet-stream" sparkle:edSignature="UFhOOKxUQAQC1hPYfdV0LJPGrxgp7xYmkAIWzn/Ou434RdgYJEuGmA2mQCtmRt2++jJRPNbqyPMlFobOnr+fCQ=="/>
-						<description><![CDATA[
+            <description><![CDATA[
 							<h2>New Features</h2>
 							<ul>
 								<li>Adds points of interests</li>
@@ -44,30 +70,6 @@
 							<ul>
 								<li>Improved the listing of areas: area groups, followed by a section for each group that lists all areas contained in it, followed by all areas that are not assigned to an area group</li>
 								<li>Empty list section are now hidden</li>
-							</ul>
-							<h2>Known Issues</h2>
-							<ul>
-								<li>After creating an item, it is not automatically selected</li>
-								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
-								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
-								<li>The New Location window is initially narrower than intended</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Tue, 23 Apr 2024 16:23:47 +0200</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14318854" type="application/octet-stream" sparkle:edSignature="zRL67a0cf3cegXx9oUMMsZ2K6q0aM4GQsub/cY+jNbJo2R+Spc/nXD4g6sWF5VpSbD7t6Ro0cRuvlTfP/120Cw=="/>
-            <description><![CDATA[
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>Improved the inspector layout by properly aligning labels and controls</li>
-								<li>The current selection is retained after saving changes</li>
-								<li>The currently selected item is now used for the window/tab title</li>
-								<li>(Hopefully) fixed a bug that prevented over-the-air updates from being installed</li>
 							</ul>
 							<h2>Known Issues</h2>
 							<ul>
