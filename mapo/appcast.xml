@@ -4,12 +4,39 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Mon, 27 May 2024 09:59:28 +0200</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="16934177" type="application/octet-stream" sparkle:edSignature="PA439DrkMuUr1WGSREXa44169PqHd4o+yB/7jR9fFNEeRFzNbWAPCdIurVDcAUTEGCKRhA3o2ms+PZNW7TrMAA=="/>
+						<description><![CDATA[
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Fixes an issue where IDs of points of interests would not be validated correctly</li>
+								<li>Adds a keyboard shortcut for creating a new point of interest (⌘N)</li>
+								<li>Hides the disclosure indicator for empty items</li>
+							</ul>
+							<p>
+								<strong>Important: The keyboard shortcut for creating a new point of interest is currently only assigned to the toolbar command until using the menu bar command uses the correct defaults for new items. To make the app recognize the keyboard shortcut, the toolbar menu needs to be opened once after launch.</strong>
+							</p>
+							<h2>Known Issues</h2>
+							<ul>
+								<li>Selecting a category does not reveal points of interests currently</li>
+								<li>After creating an item, it is not automatically selected</li>
+								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
+								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
+								<li>The New Location window is initially narrower than intended</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Mon, 27 May 2024 08:42:57 +0200</pubDate>
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="16922762" type="application/octet-stream" sparkle:edSignature="Kn1ceKI0vXjSQ6392uiaTQxnuxrkTiNybCMRJClIVICYM1xW49bMut5L8iL2Juk3afMB+IrDdzZQOQhfgGU6AA=="/>
-						<description><![CDATA[
+            <description><![CDATA[
 							<h2>New Features</h2>
 							<ul>
 								<li>Adds a button to manually generate a new ID for new items</li>
@@ -44,32 +71,6 @@
 							<h2>Fixes and Improvements</h2>
 							<ul>
 								<li>Fixes an issue where category types could change when selecting point of interests</li>
-							</ul>
-							<h2>Known Issues</h2>
-							<ul>
-								<li>Selecting a category does not reveal points of interests currently</li>
-								<li>After creating an item, it is not automatically selected</li>
-								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
-								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
-								<li>The New Location window is initially narrower than intended</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Fri, 24 May 2024 10:56:28 +0200</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="16918002" type="application/octet-stream" sparkle:edSignature="UFhOOKxUQAQC1hPYfdV0LJPGrxgp7xYmkAIWzn/Ou434RdgYJEuGmA2mQCtmRt2++jJRPNbqyPMlFobOnr+fCQ=="/>
-            <description><![CDATA[
-							<h2>New Features</h2>
-							<ul>
-								<li>Adds points of interests</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>Includes important updates to third-party software dependencies</li>
 							</ul>
 							<h2>Known Issues</h2>
 							<ul>
