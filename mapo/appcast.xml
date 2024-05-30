@@ -4,12 +4,41 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Thu, 30 May 2024 16:20:58 +0200</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="16956599" type="application/octet-stream" sparkle:edSignature="2bgXTaoFoz5sLAXozyGC1KVbdY8RE2UHfFQD4y27t6kEISiRS3WMP3I3LGnxQ20kCJa0+Wk4R1QN9G70EPdgCg=="/>
+						<description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+								<li>Prefixes and suffixes of items are now displayed in the list</li>
+								<li>Points of interest are now displayed when selecting a category and when selecting a category in a location</li>
+								<li>Adds a New Tab menu bar command</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Improves the visual appearance of list items</li>
+								<li>Removes the functionality to close a Create Item window using the Escape key</li>
+							</ul>
+							<h2>Known Issues</h2>
+							<ul>
+								<li>After creating an item, it is not automatically selected</li>
+								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
+								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
+								<li>The keyboard shortcut for creating a new point of interest is currently only assigned to the toolbar command until using the menu bar command uses the correct defaults for new items. To make the app recognize the keyboard shortcut, the toolbar menu needs to be opened once after launch</li>
+								<li>The New Location window is initially narrower than intended</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Mon, 27 May 2024 09:59:28 +0200</pubDate>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="16934177" type="application/octet-stream" sparkle:edSignature="PA439DrkMuUr1WGSREXa44169PqHd4o+yB/7jR9fFNEeRFzNbWAPCdIurVDcAUTEGCKRhA3o2ms+PZNW7TrMAA=="/>
-						<description><![CDATA[
+            <description><![CDATA[
 							<h2>Fixes and Improvements</h2>
 							<ul>
 								<li>Fixes an issue where IDs of points of interests would not be validated correctly</li>
@@ -45,32 +74,6 @@
 							<ul>
 								<li>Fixes a bug where the ID for a new point of interest would not be regenerated after creating one previously</li>
 								<li>Fixes a bug where the template for a new point of interest would not take the current selection into account</li>
-							</ul>
-							<h2>Known Issues</h2>
-							<ul>
-								<li>Selecting a category does not reveal points of interests currently</li>
-								<li>After creating an item, it is not automatically selected</li>
-								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
-								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
-								<li>The New Location window is initially narrower than intended</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Fri, 24 May 2024 15:45:13 +0200</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="16928584" type="application/octet-stream" sparkle:edSignature="9FKErzvC1NYfWLiF3WxVuFKY7KlhKSxUeHvs9bNRfprZvusdKtjlfcHEfPy2xI+GuVf4/rIhryFDjfomqD5XBA=="/>
-            <description><![CDATA[
-							<h2>New Features</h2>
-							<ul>
-								<li>Every location/area pair of a point of interest can now have own coordinates</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>Fixes an issue where category types could change when selecting point of interests</li>
 							</ul>
 							<h2>Known Issues</h2>
 							<ul>
