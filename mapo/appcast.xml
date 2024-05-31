@@ -4,12 +4,41 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Fri, 31 May 2024 15:31:54 +0200</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="16994311" type="application/octet-stream" sparkle:edSignature="PkWKMyWnyRRXPOFc5Q37rPVvquDK237zOZkAdeyRPLlXC4I0IlL8ZFdpKyhik6I+6TpNWNAVPhYS8n/BXKP/BA=="/>
+						<description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+								<li>Adds the categories <i>Animals</i> and <i>Activities</i></li>
+								<li>Adds resort types (<i>Theme Park Resort</i>, <i>Beach Resort</i>, and <i>Cruise Line</i>)</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Points of interest are now sorted alphabetically ignoring initial articles (such as “the”, “a”, and “an”)</li>
+								<li>Headers for empty sections in the points of interest list are now hidden</li>
+								<li>Fixes a bug that caused the text in the sidebar to disappear in certain conditions</li>
+							</ul>
+							<h2>Known Issues</h2>
+							<ul>
+								<li>After creating an item, it is not automatically selected</li>
+								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
+								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
+								<li>The keyboard shortcut for creating a new point of interest is currently only assigned to the toolbar command until using the menu bar command uses the correct defaults for new items. To make the app recognize the keyboard shortcut, the toolbar menu needs to be opened once after launch</li>
+								<li>The New Location window is initially narrower than intended</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Thu, 30 May 2024 16:20:58 +0200</pubDate>
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="16956599" type="application/octet-stream" sparkle:edSignature="2bgXTaoFoz5sLAXozyGC1KVbdY8RE2UHfFQD4y27t6kEISiRS3WMP3I3LGnxQ20kCJa0+Wk4R1QN9G70EPdgCg=="/>
-						<description><![CDATA[
+            <description><![CDATA[
 							<h2>New Features</h2>
 							<ul>
 								<li>Prefixes and suffixes of items are now displayed in the list</li>
@@ -48,33 +77,6 @@
 							<p>
 								<strong>Important: The keyboard shortcut for creating a new point of interest is currently only assigned to the toolbar command until using the menu bar command uses the correct defaults for new items. To make the app recognize the keyboard shortcut, the toolbar menu needs to be opened once after launch.</strong>
 							</p>
-							<h2>Known Issues</h2>
-							<ul>
-								<li>Selecting a category does not reveal points of interests currently</li>
-								<li>After creating an item, it is not automatically selected</li>
-								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
-								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
-								<li>The New Location window is initially narrower than intended</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Mon, 27 May 2024 08:42:57 +0200</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="16922762" type="application/octet-stream" sparkle:edSignature="Kn1ceKI0vXjSQ6392uiaTQxnuxrkTiNybCMRJClIVICYM1xW49bMut5L8iL2Juk3afMB+IrDdzZQOQhfgGU6AA=="/>
-            <description><![CDATA[
-							<h2>New Features</h2>
-							<ul>
-								<li>Adds a button to manually generate a new ID for new items</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>Fixes a bug where the ID for a new point of interest would not be regenerated after creating one previously</li>
-								<li>Fixes a bug where the template for a new point of interest would not take the current selection into account</li>
-							</ul>
 							<h2>Known Issues</h2>
 							<ul>
 								<li>Selecting a category does not reveal points of interests currently</li>
