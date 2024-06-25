@@ -4,12 +4,42 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 25 Jun 2024 14:50:28 +0200</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="18752196" type="application/octet-stream" sparkle:edSignature="Aw5wwcje0KidfmM2bWccyVpfaXOcJXGQrBtg5lNbREHqHJIt8Pttkd8AG3KZjmyuD51rWYZPUUWtKAtfOA/WBQ=="/>
+             <description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+								<li>Adds icons and the ability to pick icons for resorts, locations, areas, and points of interest</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Text in list rows is now truncated instead of wrapped to a new line</li>
+								<li>Sets a minimum width for list columns</li>
+								<li>The inspector can now be resized</li>
+								<li>Fixes a layout issue in the filter interface for points of interest</li>
+							</ul>
+							<h2>Known Issues</h2>
+							<ul>
+								<li>The inspector does not update correctly in some situations</li>
+								<li>After creating an item, it is not automatically selected</li>
+								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
+								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
+								<li>The keyboard shortcut for creating a new point of interest is currently only assigned to the toolbar command until using the menu bar command uses the correct defaults for new items. To make the app recognize the keyboard shortcut, the toolbar menu needs to be opened once after launch</li>
+								<li>The New Location window is initially narrower than intended</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Wed, 12 Jun 2024 10:08:35 +0200</pubDate>
             <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="18636901" type="application/octet-stream" sparkle:edSignature="TaZW7Q5ab9X/6ifuttp+RVZIfo4z82wqiu2t6NVNL9O/T5nCLH+Embw8Ooe8i38VVAYMNZx51AP0UKHW3QCYBQ=="/>
-						<description><![CDATA[
+            <description><![CDATA[
 							<h2>New Features</h2>
 							<ul>
 								<li>Adds an opening year field to points of interest</li>
@@ -49,34 +79,6 @@
 							<h2>Known Issues</h2>
 							<ul>
 								<li>The inspector does not update correctly in some situations</li>
-								<li>After creating an item, it is not automatically selected</li>
-								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
-								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
-								<li>The keyboard shortcut for creating a new point of interest is currently only assigned to the toolbar command until using the menu bar command uses the correct defaults for new items. To make the app recognize the keyboard shortcut, the toolbar menu needs to be opened once after launch</li>
-								<li>The New Location window is initially narrower than intended</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Tue, 04 Jun 2024 16:13:17 +0200</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="17088928" type="application/octet-stream" sparkle:edSignature="n0uHuv6NwgIdHBPL6XMwbSGXbYygSr/IKuDanZ7UMHNz8N0yLke8RUHpm/muIuvP7Qa1TFx0Lc5FsnahdBqiAQ=="/>
-            <description><![CDATA[
-							<h2>New Features</h2>
-							<ul>
-								<li>Adds the category <i>Entertainment</i> (the category types <i>Parade</i> and <i>Live Performance</i> move to this category)</li>
-								<li>Adds search and sorting options to the points of interest list</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>Typographically correct punctuation (e.g., quotes) is now enabled by default in the text fields for title, prefix, and suffix (substituted after entering)</li>
-								<li>Adjusts the background of list section headers to be visible in light appearance</li>
-							</ul>
-							<h2>Known Issues</h2>
-							<ul>
 								<li>After creating an item, it is not automatically selected</li>
 								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
 								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
