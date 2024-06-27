@@ -4,12 +4,41 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Thu, 27 Jun 2024 09:38:34 +0200</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="18752611" type="application/octet-stream" sparkle:edSignature="eKzHk+ziRrxAR58p/Em1ND/SUgj2MspGmsX0yPMCiNjuzB+ygc+cSN0vDu7yFEzu0KODDOeR1HJr80smXiH6Cg=="/>
+            <description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+								<li>Adds suggested icons to the icon picker</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>The icon picker now dismisses after selecting an icon</li>
+								<li>Limits the height of the icon picker popover</li>
+								<li>Fixes an issue that caused the inspector to sometimes show a modified state of a point of interest</li>
+							</ul>
+							<h2>Known Issues</h2>
+							<ul>
+								<li>The Save Changes and Revert Changes buttons flash briefly after selecting a point of interest</li>
+								<li>After creating an item, it is not automatically selected</li>
+								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
+								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
+								<li>The keyboard shortcut for creating a new point of interest is currently only assigned to the toolbar command until using the menu bar command uses the correct defaults for new items. To make the app recognize the keyboard shortcut, the toolbar menu needs to be opened once after launch</li>
+								<li>The New Location window is initially narrower than intended</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 25 Jun 2024 14:50:28 +0200</pubDate>
             <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="18752196" type="application/octet-stream" sparkle:edSignature="Aw5wwcje0KidfmM2bWccyVpfaXOcJXGQrBtg5lNbREHqHJIt8Pttkd8AG3KZjmyuD51rWYZPUUWtKAtfOA/WBQ=="/>
-             <description><![CDATA[
+            <description><![CDATA[
 							<h2>New Features</h2>
 							<ul>
 								<li>Adds icons and the ability to pick icons for resorts, locations, areas, and points of interest</li>
@@ -47,34 +76,6 @@
 							<h2>Fixes and Improvements</h2>
 							<ul>
 								<li>Improves the appearance of list items</li>
-							</ul>
-							<h2>Known Issues</h2>
-							<ul>
-								<li>The inspector does not update correctly in some situations</li>
-								<li>After creating an item, it is not automatically selected</li>
-								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
-								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
-								<li>The keyboard shortcut for creating a new point of interest is currently only assigned to the toolbar command until using the menu bar command uses the correct defaults for new items. To make the app recognize the keyboard shortcut, the toolbar menu needs to be opened once after launch</li>
-								<li>The New Location window is initially narrower than intended</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Fri, 07 Jun 2024 11:34:35 +0200</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="17171749" type="application/octet-stream" sparkle:edSignature="b5EE4VYaQaoEh8hHhduhIj5IiZ8AQLU94UOvzpKGcJ44SSTrgsz5wbi+ZLNXztKWAxJpdAmPbAV11m/5R7vQDg=="/>
-            <description><![CDATA[
-							<h2>New Features</h2>
-							<ul>
-								<li>Adds the ability to enter coordinates for resorts, locations, and areas</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>Resorts are now sorted by type in the sidebar</li>
-								<li>Fixes the appearance of list section headers</li>
 							</ul>
 							<h2>Known Issues</h2>
 							<ul>
