@@ -4,6 +4,37 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Fri, 28 Jun 2024 13:59:44 +0200</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="18768281" type="application/octet-stream" sparkle:edSignature="vWxjxzS2W82kdnhMGXUFKtY8kOuzGic3QOkAwwpppIKhg59TP1OoPDqNBGnYZWiYwdSrP03XMTfqC8DuxM6nAQ=="/>
+            <description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+								<li>Adds context menu options to copy an icon’s name in the inspector and icon picker</li>
+								<li>Adds a context menu options to clear an item’s icon right from the inspector (secondary click on the icon &rarr; Clear Icon)</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Fixes an issue that caused the inspector to not show the correct state after selecting a different location or area for a point of interest</li>
+								<li>Fixes an issue where the default icon would not update automatically</li>
+								<li>Improves the layout and positioning of the icon picker popover</li>
+								<li>When selecting a different location or area for a point of interest, the coordinates are no longer removed</li>
+							</ul>
+							<h2>Known Issues</h2>
+							<ul>
+								<li>The Save Changes and Revert Changes buttons flash briefly after selecting a point of interest</li>
+								<li>After creating an item, it is not automatically selected</li>
+								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
+								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
+								<li>The keyboard shortcut for creating a new point of interest is currently only assigned to the toolbar command until using the menu bar command uses the correct defaults for new items. To make the app recognize the keyboard shortcut, the toolbar menu needs to be opened once after launch</li>
+								<li>The New Location window is initially narrower than intended</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Thu, 27 Jun 2024 09:38:34 +0200</pubDate>
             <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -49,33 +80,6 @@
 								<li>Sets a minimum width for list columns</li>
 								<li>The inspector can now be resized</li>
 								<li>Fixes a layout issue in the filter interface for points of interest</li>
-							</ul>
-							<h2>Known Issues</h2>
-							<ul>
-								<li>The inspector does not update correctly in some situations</li>
-								<li>After creating an item, it is not automatically selected</li>
-								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
-								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
-								<li>The keyboard shortcut for creating a new point of interest is currently only assigned to the toolbar command until using the menu bar command uses the correct defaults for new items. To make the app recognize the keyboard shortcut, the toolbar menu needs to be opened once after launch</li>
-								<li>The New Location window is initially narrower than intended</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Wed, 12 Jun 2024 10:08:35 +0200</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="18636901" type="application/octet-stream" sparkle:edSignature="TaZW7Q5ab9X/6ifuttp+RVZIfo4z82wqiu2t6NVNL9O/T5nCLH+Embw8Ooe8i38VVAYMNZx51AP0UKHW3QCYBQ=="/>
-            <description><![CDATA[
-							<h2>New Features</h2>
-							<ul>
-								<li>Adds an opening year field to points of interest</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>Improves the appearance of list items</li>
 							</ul>
 							<h2>Known Issues</h2>
 							<ul>
