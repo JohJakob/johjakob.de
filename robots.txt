@@ -1,71 +1,27 @@
-# AI Data Scraper
-# https://darkvisitors.com/agents/applebot-extended
-
-User-agent: Applebot-Extended
-Disallow: /
-
-# AI Data Scraper
-# https://darkvisitors.com/agents/bytespider
-
-User-agent: Bytespider
-Disallow: /
-
-# AI Data Scraper
-# https://darkvisitors.com/agents/ccbot
-
-User-agent: CCBot
-Disallow: /
-
-# AI Data Scraper
-# https://darkvisitors.com/agents/claudebot
-
-User-agent: ClaudeBot
-Disallow: /
-
-# AI Data Scraper
-# https://darkvisitors.com/agents/diffbot
-
-User-agent: Diffbot
-Disallow: /
-
-# AI Data Scraper
-# https://darkvisitors.com/agents/facebookbot
-
-User-agent: FacebookBot
-Disallow: /
-
-# AI Data Scraper
-# https://darkvisitors.com/agents/google-extended
-
-User-agent: Google-Extended
-Disallow: /
-
-# AI Data Scraper
-# https://darkvisitors.com/agents/gptbot
-
-User-agent: GPTBot
-Disallow: /
-
-# AI Data Scraper
-# https://darkvisitors.com/agents/omgili
-
-User-agent: omgili
-Disallow: /
-
-# Undocumented AI Agent
-# https://darkvisitors.com/agents/anthropic-ai
-
+User-agent: Amazonbot
 User-agent: anthropic-ai
-Disallow: /
-
-# Undocumented AI Agent
-# https://darkvisitors.com/agents/claude-web
-
+User-agent: Applebot-Extended
+User-agent: BLEXBot
+User-agent: BrandVerity/1.0
+User-agent: Bytespider
+User-agent: ChatGPT-User
+User-agent: GPTBot
+User-agent: CheckMarkNetwork/1.0 (+https://www.checkmarknetwork.com/spider.html)
+User-agent: CCBot
+User-agent: ClaudeBot
 User-agent: Claude-Web
-Disallow: /
-
-# Undocumented AI Agent
-# https://darkvisitors.com/agents/cohere-ai
-
 User-agent: cohere-ai
+User-agent: Diffbot
+User-agent: FacebookBot
+User-agent: AdsBot-Google
+User-agent: Google-Extended
+User-agent: Pinterestbot
+User-agent: TurnitinBot
+User-agent: Twitterbot
+User-agent: NPBot
+User-agent: omgili
+User-agent: Omgilibot
+User-agent: PerplexityBot
+User-agent: SlySearch
+User-agent: YouBot
 Disallow: /
