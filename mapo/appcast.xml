@@ -4,6 +4,34 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Wed, 31 Jul 2024 10:57:48 +0200</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="19264608" type="application/octet-stream" sparkle:edSignature="9lcui80UqbkTG4MbBh0+KK6s4F6xq8ws7hEL3QaZszJce8x7+uwRKE3NUHwTwm0MXXzJ8qD9ezpg5LSVJgdCDQ=="/>
+            <description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+								<li>Adds icon categories</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Improves the visual appearance of the icon picker</li>
+								<li>Displays the prefixes and suffixes of resorts in the sidebar</li>
+							</ul>
+							<h2>Known Issues</h2>
+							<ul>
+								<li>The Save Changes and Revert Changes buttons flash briefly after selecting a point of interest</li>
+								<li>After creating an item, it is not automatically selected</li>
+								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
+								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
+								<li>The keyboard shortcut for creating a new point of interest is currently only assigned to the toolbar command until using the menu bar command uses the correct defaults for new items. To make the app recognize the keyboard shortcut, the toolbar menu needs to be opened once after launch</li>
+								<li>The New Location window is initially narrower than intended</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Mon, 08 Jul 2024 11:48:10 +0200</pubDate>
             <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -50,35 +78,6 @@
 								<li>Fixes an issue where the default icon would not update automatically</li>
 								<li>Improves the layout and positioning of the icon picker popover</li>
 								<li>When selecting a different location or area for a point of interest, the coordinates are no longer removed</li>
-							</ul>
-							<h2>Known Issues</h2>
-							<ul>
-								<li>The Save Changes and Revert Changes buttons flash briefly after selecting a point of interest</li>
-								<li>After creating an item, it is not automatically selected</li>
-								<li>When creating a new item, the Title Prefix text field is focused instead of the Title text field</li>
-								<li>When creating a new item from the File &rarr; New menu, the currently selected items are not used as defaults for the new item. Use the Create Item menu in the toolbar instead</li>
-								<li>The keyboard shortcut for creating a new point of interest is currently only assigned to the toolbar command until using the menu bar command uses the correct defaults for new items. To make the app recognize the keyboard shortcut, the toolbar menu needs to be opened once after launch</li>
-								<li>The New Location window is initially narrower than intended</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Thu, 27 Jun 2024 09:38:34 +0200</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="18752611" type="application/octet-stream" sparkle:edSignature="eKzHk+ziRrxAR58p/Em1ND/SUgj2MspGmsX0yPMCiNjuzB+ygc+cSN0vDu7yFEzu0KODDOeR1HJr80smXiH6Cg=="/>
-            <description><![CDATA[
-							<h2>New Features</h2>
-							<ul>
-								<li>Adds suggested icons to the icon picker</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>The icon picker now dismisses after selecting an icon</li>
-								<li>Limits the height of the icon picker popover</li>
-								<li>Fixes an issue that caused the inspector to sometimes show a modified state of a point of interest</li>
 							</ul>
 							<h2>Known Issues</h2>
 							<ul>
