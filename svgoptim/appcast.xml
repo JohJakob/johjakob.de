@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SVGOptim</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 16 Aug 2024 14:37:22 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/svgoptim/SVGOptim.zip" length="1766175" type="application/octet-stream" sparkle:edSignature="FuyitSr1AFKHHMtXDka2goBxoYatUvDeO2K4w6aY4/jhvrRLF6osQ3v0/l7S8WIzElkMis4UJYYgyyLRYgo7Cw=="/>
+        </item>
+    </channel>
+</rss>
