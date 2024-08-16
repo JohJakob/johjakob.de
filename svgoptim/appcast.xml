@@ -4,6 +4,25 @@
         <title>SVGOptim</title>
         <item>
             <title>1.0</title>
+            <pubDate>Fri, 16 Aug 2024 21:18:21 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/svgoptim/SVGOptim.zip" length="1797104" type="application/octet-stream" sparkle:edSignature="1MqPjgvjFpCxoQRHMR0xYNut+e1s49yyaHgN5YOnBRO9PbSaSEk7iIafmk3CD8qmvnzeTJkBsbsRAYyK0yfHCQ=="/>
+            <description><![CDATA[
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Enables reordering of input files</li>
+								<li>Fixes the optimization method</li>
+							</ul>
+							<h2>Known Issues</h2>
+							<ul>
+								<li>Proper error management is missing</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Fri, 16 Aug 2024 15:37:53 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
