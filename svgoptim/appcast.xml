@@ -4,6 +4,30 @@
         <title>SVGOptim</title>
         <item>
             <title>1.0</title>
+            <pubDate>Sun, 18 Aug 2024 09:16:35 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/svgoptim/SVGOptim.zip" length="1729183" type="application/octet-stream" sparkle:edSignature="JGhwMwp5BNGRNs7T4IzFzJiFfK1dbKsKysYq0Bx5RjPUtzsN/+J0Md/at/bjsPMh8bHSH5uGgzVLu80IZ6ecDw=="/>
+            <description><![CDATA[
+            					<h2>New Features</h2>
+            					<ul>
+            						<li>Adds the ability to open all SVG files within a folder</li>
+            						<li>Enables drag-and-drop of input files (and folders)</li>
+            						<li>Adds a “More Options” menu to the SVGO Configuration section in the Inspector</li>
+            					</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Improves the visual appearance</li>
+							</ul>
+							<h2>Known Issues</h2>
+							<ul>
+								<li>Proper error handling is missing</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Fri, 16 Aug 2024 21:18:21 +0200</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -17,7 +41,7 @@
 							</ul>
 							<h2>Known Issues</h2>
 							<ul>
-								<li>Proper error management is missing</li>
+								<li>Proper error handling is missing</li>
 							</ul>
 							]]></description>
         </item>
@@ -35,17 +59,9 @@
 							</ul>
 							<h2>Known Issues</h2>
 							<ul>
-								<li>Proper error management is missing</li>
+								<li>Proper error handling is missing</li>
 							</ul>
 							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Fri, 16 Aug 2024 14:37:22 +0200</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/svgoptim/SVGOptim.zip" length="1766175" type="application/octet-stream" sparkle:edSignature="FuyitSr1AFKHHMtXDka2goBxoYatUvDeO2K4w6aY4/jhvrRLF6osQ3v0/l7S8WIzElkMis4UJYYgyyLRYgo7Cw=="/>
         </item>
     </channel>
 </rss>
