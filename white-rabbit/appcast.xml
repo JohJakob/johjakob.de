@@ -4,6 +4,26 @@
         <title>White Rabbit</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 24 Sep 2024 10:16:59 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/white-rabbit/White%20Rabbit.zip" length="8003611" type="application/octet-stream" sparkle:edSignature="B1pV8mHzz1Oyfz+ljp3TIP8B9kJe/MI4wxc22YnskZzHSJDqq/1FxmBbk2PUkQTbKoqle7MAeJi2V3hPbQk0AQ=="/>
+            <description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+								<li>Uses a new editor for text output</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Improves the toolbar layout</li>
+								<li>Updates the app’s visual appearance</li>
+								<li>Adds credits to the About window</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 10 Sep 2024 09:44:43 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
