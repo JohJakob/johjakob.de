@@ -4,6 +4,25 @@
         <title>Pixadex</title>
         <item>
             <title>4.0</title>
+            <pubDate>Wed, 09 Oct 2024 16:12:15 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="15759318" type="application/octet-stream" sparkle:edSignature="kzbE/KhM/SV7/fvbdJn/W2NxuSEIPqctPIa7K9IMRyTC+tlAsYm9XPzl6PZF5uuHTExRYhsJQBCiownqQWHoAQ=="/>
+             <description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+							    <li>Adds ability to drag and drop icons from the grid view to export them (as folders with a custom icon)
+								<li>Adds <em>Quick</em><stron>Drop</strong></li>
+							</ul>
+							<h2>Notes</h2>
+							<ul>
+								<li>This version changes the specification of iContainers. You will need to reimport all CandyBar iContainers</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>4.0</title>
             <pubDate>Tue, 08 Oct 2024 10:33:48 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
