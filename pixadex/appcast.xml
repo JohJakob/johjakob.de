@@ -4,12 +4,32 @@
         <title>Pixadex</title>
         <item>
             <title>4.0</title>
+            <pubDate>Fri, 18 Oct 2024 16:18:28 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="16873941" type="application/octet-stream" sparkle:edSignature="I7vbbHHJEyjHjj6/dGhWsF2xdFK3GQU2qQXI3Sb3JPaqO4z4R8HtbYxjVUup8fDXwPTjT7g9ATFkfmspPRrZCw=="/>
+            <description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+							    <li>Adds a basic list view</li>
+								<li>Adds the ability to remove custom icons from files and folders by dragging them onto <em>Quick</em><strong>Drop</strong> when no icon is selected</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+							    <li>Fixes an issue where the settings window was opened by default after launching the app</li>
+							    <li>Improves the main window title</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>4.0</title>
             <pubDate>Wed, 09 Oct 2024 16:12:15 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="15759318" type="application/octet-stream" sparkle:edSignature="kzbE/KhM/SV7/fvbdJn/W2NxuSEIPqctPIa7K9IMRyTC+tlAsYm9XPzl6PZF5uuHTExRYhsJQBCiownqQWHoAQ=="/>
-             <description><![CDATA[
+            <description><![CDATA[
 							<h2>New Features</h2>
 							<ul>
 							    <li>Adds ability to drag and drop icons from the grid view to export them (as folders with a custom icon)</li>
@@ -17,7 +37,7 @@
 							</ul>
 							<h2>Notes</h2>
 							<ul>
-								<li>This version changes the specification of iContainers. You will need to reimport all CandyBar iContainers</li>
+								<li>This version changes the specification of iContainers. You will need to reimport all CandyBar iContainers.</li>
 							</ul>
 							]]></description>
         </item>
