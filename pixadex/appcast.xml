@@ -4,6 +4,25 @@
         <title>Pixadex</title>
         <item>
             <title>4.0</title>
+            <pubDate>Thu, 24 Oct 2024 11:18:33 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="16938967" type="application/octet-stream" sparkle:edSignature="BPDPrW762MhNdkDymzWQFrK1A+3gx3XJ7BnQbSgK9Zp1uMx5Ftrmpu5DpKeNHHuvx906fX2h++35m/icv6fkBw=="/>
+            <description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+							    <li>Adds functionality to emulate a low-resolution display</li>
+								<li>Adds a new control for changing the icon preview size</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+							    <li>Fixes image interpolation in the <em>Quick</em><strong>Drop</strong> preview</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>4.0</title>
             <pubDate>Fri, 18 Oct 2024 16:18:28 +0200</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
@@ -40,14 +59,6 @@
 								<li>This version changes the specification of iContainers. You will need to reimport all CandyBar iContainers.</li>
 							</ul>
 							]]></description>
-        </item>
-        <item>
-            <title>4.0</title>
-            <pubDate>Tue, 08 Oct 2024 10:33:48 +0200</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="15688990" type="application/octet-stream" sparkle:edSignature="2QabTMxiKrtbgAAr2L+ocdEmN+wQoR6JLoueimg7gcvnb//X8lUtNEf0keVKSbU/0uSm0bnwXoNUyANo0JUwCw=="/>
         </item>
     </channel>
 </rss>
