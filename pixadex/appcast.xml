@@ -4,6 +4,25 @@
         <title>Pixadex</title>
         <item>
             <title>4.0</title>
+            <pubDate>Tue, 29 Oct 2024 14:00:17 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="16970660" type="application/octet-stream" sparkle:edSignature="Ur+6lnOXl+TjzQJtD6cJlAdYtOx97bNqhAPzh919GQi+n4hXM3VeGQj5s4i7wm92P03hkqqqy8VWks4KuZd0Aw=="/>
+            <description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+							    <li>Adds a temporary settings window to adjust the low resolution emulation mode</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+							    <li>Removes the Add and Remove buttons from the sidebar</li>
+							    <li>Includes minor interface improvements</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>4.0</title>
             <pubDate>Thu, 24 Oct 2024 11:18:33 +0200</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
@@ -38,25 +57,6 @@
 							<ul>
 							    <li>Fixes an issue where the settings window was opened by default after launching the app</li>
 							    <li>Improves the main window title</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>4.0</title>
-            <pubDate>Wed, 09 Oct 2024 16:12:15 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="15759318" type="application/octet-stream" sparkle:edSignature="kzbE/KhM/SV7/fvbdJn/W2NxuSEIPqctPIa7K9IMRyTC+tlAsYm9XPzl6PZF5uuHTExRYhsJQBCiownqQWHoAQ=="/>
-            <description><![CDATA[
-							<h2>New Features</h2>
-							<ul>
-							    <li>Adds ability to drag and drop icons from the grid view to export them (as folders with a custom icon)</li>
-								<li>Adds <em>Quick</em><strong>Drop</strong></li>
-							</ul>
-							<h2>Notes</h2>
-							<ul>
-								<li>This version changes the specification of iContainers. You will need to reimport all CandyBar iContainers.</li>
 							</ul>
 							]]></description>
         </item>
