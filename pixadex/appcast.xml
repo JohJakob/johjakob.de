@@ -4,6 +4,30 @@
         <title>Pixadex</title>
         <item>
             <title>4.0</title>
+            <pubDate>Wed, 06 Nov 2024 15:00:55 +0100</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="17052936" type="application/octet-stream" sparkle:edSignature="B0fIT3+GhwvKNbX5DtZ+sYptJP9PfQOu6CTYKRWh5XXMfN/DmEIH6LZbr7p+yM0qi0CX0yO6x02VcHKGosdTDA=="/>
+            <description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+							    <li>Icon view modes can now be chosen from the View menu</li>
+							    <li>Adds thumbnail size view options for the list view mode</li>
+							    <li>The icon preview in the gallery view is now draggable</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+							    <li>The icon selection can be cleared by clicking the background in the gallery view</li>
+							    <li>Moves the sidebar icon size settings to the Appearance tab in the Settings window</li>
+							    <li>Moves the low-resolution emulation settings to the Appearance tab in the Settings window</li>
+							    <li>Adds point size labels to all icon/thumbnail size settings</li>
+							    <li>Removes the Minimize and Zoom buttons from the View Options panel</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>4.0</title>
             <pubDate>Wed, 06 Nov 2024 11:48:22 +0100</pubDate>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
@@ -39,25 +63,6 @@
 							    <li>Updates the button for toggling low-resolution emulation</li>
 							    <li>Author information for a selected collection is now displayed as a subtitle in the title bar</li>
 							    <li>Fixes an issue where <em>Quick</em><strong>Drop</strong> could not set or remove the icon of files and folders</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>4.0</title>
-            <pubDate>Tue, 29 Oct 2024 14:00:17 +0100</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="16970660" type="application/octet-stream" sparkle:edSignature="Ur+6lnOXl+TjzQJtD6cJlAdYtOx97bNqhAPzh919GQi+n4hXM3VeGQj5s4i7wm92P03hkqqqy8VWks4KuZd0Aw=="/>
-            <description><![CDATA[
-							<h2>New Features</h2>
-							<ul>
-							    <li>Adds a temporary settings window to adjust the low resolution emulation mode</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-							    <li>Removes the Add and Remove buttons from the sidebar</li>
-							    <li>Includes minor interface improvements</li>
 							</ul>
 							]]></description>
         </item>
