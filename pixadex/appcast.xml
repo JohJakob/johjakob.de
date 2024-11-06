@@ -4,6 +4,24 @@
         <title>Pixadex</title>
         <item>
             <title>4.0</title>
+            <pubDate>Wed, 06 Nov 2024 11:48:22 +0100</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="17034234" type="application/octet-stream" sparkle:edSignature="26p0+x1hs2OKBcBJlomSfxxbZalZ35olVqZOHz3QphihWBsU84nJ2gLjs4e1QrTuw2+dhfACkT5zcRGEM2+aAQ=="/>
+            <description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+							    <li>Adds an icon gallery view and corresponding view options</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+							    <li>Includes minor interface improvements</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>4.0</title>
             <pubDate>Wed, 06 Nov 2024 07:04:19 +0100</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
@@ -40,25 +58,6 @@
 							<ul>
 							    <li>Removes the Add and Remove buttons from the sidebar</li>
 							    <li>Includes minor interface improvements</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>4.0</title>
-            <pubDate>Thu, 24 Oct 2024 11:18:33 +0200</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="16938967" type="application/octet-stream" sparkle:edSignature="BPDPrW762MhNdkDymzWQFrK1A+3gx3XJ7BnQbSgK9Zp1uMx5Ftrmpu5DpKeNHHuvx906fX2h++35m/icv6fkBw=="/>
-            <description><![CDATA[
-							<h2>New Features</h2>
-							<ul>
-							    <li>Adds functionality to emulate a low-resolution display</li>
-								<li>Adds a new control for changing the icon preview size</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-							    <li>Fixes image interpolation in the <em>Quick</em><strong>Drop</strong> preview</li>
 							</ul>
 							]]></description>
         </item>
