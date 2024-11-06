@@ -4,6 +4,28 @@
         <title>Pixadex</title>
         <item>
             <title>4.0</title>
+            <pubDate>Wed, 06 Nov 2024 07:04:19 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="16990267" type="application/octet-stream" sparkle:edSignature="WRYhoiYfC0ITVR3u6jAtH4W7JGDeh+4Hu+EVwPabPjFwZUVBS24RnvrMLvoOF45+XE/hpQIZCiGrDgeaVxMOBA=="/>
+            <description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+							    <li>Adds a basic icon search</li>
+							    <li>Adds a view option to show icon names in the grid view</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+							    <li>Moves the settings for the low-resolution emulation to the Advanced tab in the Settings window</li>
+							    <li>Updates the button for toggling low-resolution emulation</li>
+							    <li>Author information for a selected collection is now displayed as a subtitle in the title bar</li>
+							    <li>Fixes an issue where <em>Quick</em><strong>Drop</strong> could not set or remove the icon of files and folders</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>4.0</title>
             <pubDate>Tue, 29 Oct 2024 14:00:17 +0100</pubDate>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
@@ -37,26 +59,6 @@
 							<h2>Fixes and Improvements</h2>
 							<ul>
 							    <li>Fixes image interpolation in the <em>Quick</em><strong>Drop</strong> preview</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>4.0</title>
-            <pubDate>Fri, 18 Oct 2024 16:18:28 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="16873941" type="application/octet-stream" sparkle:edSignature="I7vbbHHJEyjHjj6/dGhWsF2xdFK3GQU2qQXI3Sb3JPaqO4z4R8HtbYxjVUup8fDXwPTjT7g9ATFkfmspPRrZCw=="/>
-            <description><![CDATA[
-							<h2>New Features</h2>
-							<ul>
-							    <li>Adds a basic list view</li>
-								<li>Adds the ability to remove custom icons from files and folders by dragging them onto <em>Quick</em><strong>Drop</strong> when no icon is selected</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-							    <li>Fixes an issue where the settings window was opened by default after launching the app</li>
-							    <li>Improves the main window title</li>
 							</ul>
 							]]></description>
         </item>
