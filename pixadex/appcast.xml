@@ -4,6 +4,22 @@
         <title>Pixadex</title>
         <item>
             <title>4.0</title>
+            <pubDate>Tue, 12 Nov 2024 14:37:55 +0100</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="16977585" type="application/octet-stream" sparkle:edSignature="gQnr5fWdZ8fhtBxc+xP24vMs+xtrgAYxHmbdfCFncdpmDajRsDII3PFVkUCJZAOpA89qk00TdqCNv9lHxVNVBw=="/>
+            <description><![CDATA[
+							<h2>Fixes and Improvements</h2>
+							<ul>
+							    <li>Uses dynamic text and selection background colors in the icon view based on the collection’s background color</li>
+							    <li>Fixes an issue where the Updates tab was initially selected in the Settings window rather than the Appearance tab</li>
+							    <li>Fixes an issue where the status bar in the sidebar was not displayed correctly</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>4.0</title>
             <pubDate>Wed, 06 Nov 2024 15:00:55 +0100</pubDate>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
@@ -41,28 +57,6 @@
 							<h2>Fixes and Improvements</h2>
 							<ul>
 							    <li>Includes minor interface improvements</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>4.0</title>
-            <pubDate>Wed, 06 Nov 2024 07:04:19 +0100</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="16990267" type="application/octet-stream" sparkle:edSignature="WRYhoiYfC0ITVR3u6jAtH4W7JGDeh+4Hu+EVwPabPjFwZUVBS24RnvrMLvoOF45+XE/hpQIZCiGrDgeaVxMOBA=="/>
-            <description><![CDATA[
-							<h2>New Features</h2>
-							<ul>
-							    <li>Adds a basic icon search</li>
-							    <li>Adds a view option to show icon names in the grid view</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-							    <li>Moves the settings for the low-resolution emulation to the Advanced tab in the Settings window</li>
-							    <li>Updates the button for toggling low-resolution emulation</li>
-							    <li>Author information for a selected collection is now displayed as a subtitle in the title bar</li>
-							    <li>Fixes an issue where <em>Quick</em><strong>Drop</strong> could not set or remove the icon of files and folders</li>
 							</ul>
 							]]></description>
         </item>
