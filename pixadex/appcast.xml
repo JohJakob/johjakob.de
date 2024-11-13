@@ -4,6 +4,28 @@
         <title>Pixadex</title>
         <item>
             <title>4.0</title>
+            <pubDate>Wed, 13 Nov 2024 14:26:11 +0100</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="16995614" type="application/octet-stream" sparkle:edSignature="y/NcMXcxvDXrQtiTF9mSJJmZpLtg3t0tFmBk1llFFI9gLRDgfXF4Dy01Otd5OV/xVlkBsRmDLTVTrhRGYK3aAw=="/>
+            <description><![CDATA[
+            					<h2>New Features</h2>
+            					<ul>
+            						<li>Adds the ability to export icons in an alternate format when dragging them to other applications by pressing and holding ⌥ option before starting to drag</li>
+            						<li>Adds a setting to choose the preferred export format when dragging icons to other applications</li>
+            					</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+							    <li>When switching to the gallery view, the first icon is now selected automatically if no icon was selected previously</li>
+							    <li>Improves the visual appearance of the gallery strip</li>
+							    <li>Uses the correct background color for the icon view</li>
+							    <li>Includes minor improvements</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>4.0</title>
             <pubDate>Tue, 12 Nov 2024 14:37:55 +0100</pubDate>
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
@@ -39,24 +61,6 @@
 							    <li>Moves the low-resolution emulation settings to the Appearance tab in the Settings window</li>
 							    <li>Adds point size labels to all icon/thumbnail size settings</li>
 							    <li>Removes the Minimize and Zoom buttons from the View Options panel</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>4.0</title>
-            <pubDate>Wed, 06 Nov 2024 11:48:22 +0100</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="17034234" type="application/octet-stream" sparkle:edSignature="26p0+x1hs2OKBcBJlomSfxxbZalZ35olVqZOHz3QphihWBsU84nJ2gLjs4e1QrTuw2+dhfACkT5zcRGEM2+aAQ=="/>
-            <description><![CDATA[
-							<h2>New Features</h2>
-							<ul>
-							    <li>Adds an icon gallery view and corresponding view options</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-							    <li>Includes minor interface improvements</li>
 							</ul>
 							]]></description>
         </item>
