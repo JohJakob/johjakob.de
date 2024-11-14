@@ -4,6 +4,22 @@
         <title>Pixadex</title>
         <item>
             <title>4.0</title>
+            <pubDate>Thu, 14 Nov 2024 13:44:28 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="17063814" type="application/octet-stream" sparkle:edSignature="9GaFACfBNVLgGsFoMPuePZW1NCvhVPZIFFM7ZUsppadSCJ7EuXYVa9cBmR5uaNrDOXAWDL4Jar7Cq4HjYQ7JDA=="/>
+            <description><![CDATA[
+							<h2>Fixes and Improvements</h2>
+							<ul>
+							    <li>Adds the import and export menus to the menu bar</li>
+							    <li>Fixes an issue where the gallery view was not occupying all available space</li>
+							    <li>Fixes a visual bug in the gallery strip</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>4.0</title>
             <pubDate>Wed, 13 Nov 2024 14:26:11 +0100</pubDate>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
@@ -37,30 +53,6 @@
 							    <li>Uses dynamic text and selection background colors in the icon view based on the collection’s background color</li>
 							    <li>Fixes an issue where the Updates tab was initially selected in the Settings window rather than the Appearance tab</li>
 							    <li>Fixes an issue where the status bar in the sidebar was not displayed correctly</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>4.0</title>
-            <pubDate>Wed, 06 Nov 2024 15:00:55 +0100</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="17052936" type="application/octet-stream" sparkle:edSignature="B0fIT3+GhwvKNbX5DtZ+sYptJP9PfQOu6CTYKRWh5XXMfN/DmEIH6LZbr7p+yM0qi0CX0yO6x02VcHKGosdTDA=="/>
-            <description><![CDATA[
-							<h2>New Features</h2>
-							<ul>
-							    <li>Icon view modes can now be chosen from the View menu</li>
-							    <li>Adds thumbnail size view options for the list view mode</li>
-							    <li>The icon preview in the gallery view is now draggable</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-							    <li>The icon selection can be cleared by clicking the background in the gallery view</li>
-							    <li>Moves the sidebar icon size settings to the Appearance tab in the Settings window</li>
-							    <li>Moves the low-resolution emulation settings to the Appearance tab in the Settings window</li>
-							    <li>Adds point size labels to all icon/thumbnail size settings</li>
-							    <li>Removes the Minimize and Zoom buttons from the View Options panel</li>
 							</ul>
 							]]></description>
         </item>
