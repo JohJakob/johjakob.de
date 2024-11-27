@@ -4,6 +4,27 @@
         <title>Pixadex</title>
         <item>
             <title>4.0</title>
+            <pubDate>Wed, 27 Nov 2024 17:04:01 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="17140024" type="application/octet-stream" sparkle:edSignature="C4UW7/W8ptRCoqvmdtS1ESt1aTsaVJJeSS9AeYUaRT6I9TKLFW5ZVgyTkWz+DSkzInQ5EDDD9vgEdaE3JKqOBg=="/>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>Adds colorful new icons to the Settings window tabs</li>
+                            </ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+							    <li>Rearranges the settings</li>
+							    <li>Improves selecting and dragging in the list view</li>
+							    <li>Enables toggling low-resolution emulation in the list view</li>
+							    <li>Collection background colors now extend beneath the status bar</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>4.0</title>
             <pubDate>Thu, 14 Nov 2024 13:44:28 +0100</pubDate>
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
@@ -37,22 +58,6 @@
 							    <li>Improves the visual appearance of the gallery strip</li>
 							    <li>Uses the correct background color for the icon view</li>
 							    <li>Includes minor improvements</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>4.0</title>
-            <pubDate>Tue, 12 Nov 2024 14:37:55 +0100</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/pixadex/Pixadex.zip" length="16977585" type="application/octet-stream" sparkle:edSignature="gQnr5fWdZ8fhtBxc+xP24vMs+xtrgAYxHmbdfCFncdpmDajRsDII3PFVkUCJZAOpA89qk00TdqCNv9lHxVNVBw=="/>
-            <description><![CDATA[
-							<h2>Fixes and Improvements</h2>
-							<ul>
-							    <li>Uses dynamic text and selection background colors in the icon view based on the collection’s background color</li>
-							    <li>Fixes an issue where the Updates tab was initially selected in the Settings window rather than the Appearance tab</li>
-							    <li>Fixes an issue where the status bar in the sidebar was not displayed correctly</li>
 							</ul>
 							]]></description>
         </item>
