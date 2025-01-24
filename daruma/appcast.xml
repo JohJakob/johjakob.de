@@ -4,6 +4,23 @@
         <title>Daruma</title>
         <item>
             <title>1.0</title>
+            <pubDate>Fri, 24 Jan 2025 10:11:13 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="3861086" type="application/octet-stream" sparkle:edSignature="uv06BH0HLl8fhbH4EF/SUfqLOjtN79Y/lmKxR8ISCwR2XyK/Ot0Y+JXQMeb2hV5rs4yDZBTQCg5QBoFoZ2GsDw=="/>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            
+                            <ul>
+                                <li>Enables adding items by pressing the <kbd>Enter</kbd>/<kbd>Return</kbd> key</li>
+                                <li>Improves hover effects for the “In Progress” and “Completed” checkboxes</li>
+                                <li>Fixes an issue where checking for updates failed</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Fri, 24 Jan 2025 07:17:52 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
