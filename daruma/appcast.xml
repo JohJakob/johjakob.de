@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Daruma</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 24 Jan 2025 07:17:52 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="3951632" type="application/octet-stream" sparkle:edSignature="CdDHEdNWwU97QtZDPYp1jFQuhlgxpaJ9zjBplLFmjjHCju7+zivN3EMIrQ/AZPjtrytd2ec8G/wDofObOaMMDA=="/>
+        </item>
+    </channel>
+</rss>
