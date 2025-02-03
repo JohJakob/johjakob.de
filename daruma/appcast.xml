@@ -4,6 +4,31 @@
         <title>Daruma</title>
         <item>
             <title>1.0</title>
+            <pubDate>Mon, 03 Feb 2025 13:02:33 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="6679453" type="application/octet-stream" sparkle:edSignature="tu9RQujZOGJU1Y6b5Z7OQWkzlgQei9+Gc7/5OVqDumPqPPqKsJNlTdIGMRFJmceGiYwNCrg0KQSCU0hUn7G2Dg=="/>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>Adds alternate Dock icons and an Appearance settings tab</li>
+                                <li>Adds options to burn completed items on quit and/or at the end of the day</li>
+                                <li>Adds donation links in the Help menu and in Settings</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>The app now quits after the last window is closed</li>
+                                <li>Includes minor interface improvements</li>
+                            </ul>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>When the list is not scrolled to the top, the burning animation may appear incorrectly</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 28 Jan 2025 09:45:48 +0100</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -38,14 +63,6 @@
                                 <li>Fixes an issue where checking for updates failed</li>
                             </ul>
 							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Fri, 24 Jan 2025 07:17:52 +0100</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="3951632" type="application/octet-stream" sparkle:edSignature="CdDHEdNWwU97QtZDPYp1jFQuhlgxpaJ9zjBplLFmjjHCju7+zivN3EMIrQ/AZPjtrytd2ec8G/wDofObOaMMDA=="/>
         </item>
     </channel>
 </rss>
