@@ -4,6 +4,25 @@
         <title>Daruma</title>
         <item>
             <title>1.0</title>
+            <pubDate>Thu, 06 Feb 2025 19:12:29 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="6711330" type="application/octet-stream" sparkle:edSignature="XaCVYKLQgQkCmNbVc3vsj2MxGz5AstkhMGsZ5VQm8xhA9epOQHAGajt285RGNT+GGKp0MzhZy7jJ2YBemC0UBA=="/>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Fixes an issue where accomplished goals would not be automatically burnt at the end of the day while the app was running</li>
+                                <li>Adds prerequisites for future releases</li>
+                            </ul>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>When the list is not scrolled to the top, the burning animation may appear incorrectly</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Wed, 05 Feb 2025 14:15:56 +0100</pubDate>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -43,27 +62,6 @@
                             <ul>
                                 <li>The app now quits after the last window is closed</li>
                                 <li>Includes minor interface improvements</li>
-                            </ul>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>When the list is not scrolled to the top, the burning animation may appear incorrectly</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Tue, 28 Jan 2025 09:45:48 +0100</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="3891822" type="application/octet-stream" sparkle:edSignature="v2I7WKx+h/U8Orp48brTdUQNjI0kRcisbjKVVMqKSkh6iq/qMDa7WRHQSRrkigpUXydNQg3Zjdq/zCDmAB86Bw=="/>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Items are now moved to the closest position when changing their state</li>
-                                <li>Adds update settings</li>
-                                <li>When adding a new item, the list scrolls to the bottom to bring the new item into view</li>
-                                <li>Adjusts the outline colour of the checkboxes</li>
                             </ul>
                             <h2>Known Issues</h2>
                             <ul>
