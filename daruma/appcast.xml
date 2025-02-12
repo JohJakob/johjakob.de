@@ -4,6 +4,33 @@
         <title>Daruma</title>
         <item>
             <title>1.0</title>
+            <pubDate>Wed, 12 Feb 2025 10:20:38 +0100</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="6918701" type="application/octet-stream" sparkle:edSignature="l4cAUvrWfsIlVcZatpfjixakfHU2qSIJkuIJ1XhOQFzdubiHh2sdxryqrjphS9vnBLsBcwYf42+ZG4JQGdy6Dg=="/>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>Enables iCloud sync</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Updates the app icon and alternate Dock icons</li>
+                                <li>Improves the list layout</li>
+                                <li>Improves the About window</li>
+                                <li>Fixes an issue where text selection would be retained when focusing a different entry</li>
+                                <li>Corrects the placeholder text for new goals</li>
+                                <li>Includes minor updates and improvements behind the scenes</li>
+                            </ul>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>When the list is not scrolled to the top, the burning animation may appear incorrectly</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Thu, 06 Feb 2025 19:12:29 +0100</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -36,31 +63,6 @@
                                 <li>Fixes an issue where burning could be undone</li>
                                 <li>Updates the donation links</li>
                                 <li>Fixes an issue where alternate Dock icons could be selected without unlocking</li>
-                                <li>Includes minor interface improvements</li>
-                            </ul>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>When the list is not scrolled to the top, the burning animation may appear incorrectly</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Mon, 03 Feb 2025 13:02:33 +0100</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="6679453" type="application/octet-stream" sparkle:edSignature="tu9RQujZOGJU1Y6b5Z7OQWkzlgQei9+Gc7/5OVqDumPqPPqKsJNlTdIGMRFJmceGiYwNCrg0KQSCU0hUn7G2Dg=="/>
-            <description><![CDATA[
-                            <h2>New Features</h2>
-                            <ul>
-                                <li>Adds alternate Dock icons and an Appearance settings tab</li>
-                                <li>Adds options to burn completed items on quit and/or at the end of the day</li>
-                                <li>Adds donation links in the Help menu and in Settings</li>
-                            </ul>
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>The app now quits after the last window is closed</li>
                                 <li>Includes minor interface improvements</li>
                             </ul>
                             <h2>Known Issues</h2>
