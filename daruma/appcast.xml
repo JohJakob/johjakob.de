@@ -4,6 +4,31 @@
         <title>Daruma</title>
         <item>
             <title>1.0</title>
+            <pubDate>Wed, 19 Feb 2025 14:19:59 +0100</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="6988857" type="application/octet-stream" sparkle:edSignature="nvnwdtdEjJ0QUH+i/YkZGrNmJbTO1ExV+K5ADHg4ZzsA9z8x1BVf0sA9mhtVzPys/qyewHyqGmapzhwLYm9PAw=="/>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>Displays a warning before burning completed goals (can be disabled in the settings)</li>
+                                <li>dds an improved empty list state</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Updates the About Daruma window</li>
+                                <li>Removes the About Daruma window from the window list</li>
+                                <li>Fixes layout issues in the goal list</li>
+                            </ul>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>When the list is not scrolled to the top, the burning animation may appear incorrectly</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Wed, 12 Feb 2025 10:20:38 +0100</pubDate>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -41,29 +66,6 @@
                             <ul>
                                 <li>Fixes an issue where accomplished goals would not be automatically burnt at the end of the day while the app was running</li>
                                 <li>Adds prerequisites for future releases</li>
-                            </ul>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>When the list is not scrolled to the top, the burning animation may appear incorrectly</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Wed, 05 Feb 2025 14:15:56 +0100</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="6686392" type="application/octet-stream" sparkle:edSignature="paEaNfLLfJs1tZLYezmZTULw035837Y9UA1dIfHqmVdCKImLcM6B3XIDzaLrh7SpyXqDGgke6CuWfRM34lQ4Bw=="/>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Renames “items” to “goals”</li>
-                                <li>Updates the layout of goals</li>
-                                <li>Fixes an issue where burning could be undone</li>
-                                <li>Updates the donation links</li>
-                                <li>Fixes an issue where alternate Dock icons could be selected without unlocking</li>
-                                <li>Includes minor interface improvements</li>
                             </ul>
                             <h2>Known Issues</h2>
                             <ul>
