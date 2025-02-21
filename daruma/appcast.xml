@@ -4,6 +4,30 @@
         <title>Daruma</title>
         <item>
             <title>1.0</title>
+            <pubDate>Fri, 21 Feb 2025 15:31:55 +0100</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="7010465" type="application/octet-stream" sparkle:edSignature="fihIykueePRTTxTN3zk3Abt+PJVb5H//HO5cxh6qel/v9nsSoOHzaN+LVOZybOOn9dwn/SO8FVZcAbJwxFZZDw=="/>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>Adds special Dock icons that can be unlocked</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Adds names to all Dock icons in the settings</li>
+                                <li>Disables the state toggles for untitled goals</li>
+                                <li>Fixes an issue where a new goal would sometimes not be added at the end of the list</li>
+                            </ul>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>When the list is not scrolled to the top, the burning animation may appear incorrectly</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Wed, 19 Feb 2025 14:19:59 +0100</pubDate>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -13,7 +37,7 @@
                             <h2>New Features</h2>
                             <ul>
                                 <li>Displays a warning before burning completed goals (can be disabled in the settings)</li>
-                                <li>dds an improved empty list state</li>
+                                <li>Adds an improved empty list state</li>
                             </ul>
                             <h2>Fixes and Improvements</h2>
                             <ul>
@@ -47,25 +71,6 @@
                                 <li>Fixes an issue where text selection would be retained when focusing a different entry</li>
                                 <li>Corrects the placeholder text for new goals</li>
                                 <li>Includes minor updates and improvements behind the scenes</li>
-                            </ul>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>When the list is not scrolled to the top, the burning animation may appear incorrectly</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Thu, 06 Feb 2025 19:12:29 +0100</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="6711330" type="application/octet-stream" sparkle:edSignature="XaCVYKLQgQkCmNbVc3vsj2MxGz5AstkhMGsZ5VQm8xhA9epOQHAGajt285RGNT+GGKp0MzhZy7jJ2YBemC0UBA=="/>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Fixes an issue where accomplished goals would not be automatically burnt at the end of the day while the app was running</li>
-                                <li>Adds prerequisites for future releases</li>
                             </ul>
                             <h2>Known Issues</h2>
                             <ul>
