@@ -4,6 +4,28 @@
         <title>Daruma</title>
         <item>
             <title>1.0</title>
+            <pubDate>Mon, 24 Feb 2025 21:51:51 +0100</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="7016721" type="application/octet-stream" sparkle:edSignature="ruU/tgmnwLoiC05zA3iqMCmzVC6x7wrkGhlRMOoJmMKJD38jabEWSmhTUazjbX4nmcMdgEvwcfnovzCJ1TxeDQ=="/>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Adds a link to the <a href="https://kadomaru.app">Kadomaru Shōkai</a> website in the Help menu</li>
+                                <li>Improves accessibility of the goal list and settings</li>
+                                <li>Improves the hover effects of the goal toggles</li>
+                                <li>Fixes an issue where goal titles spanning multiple lines would not be displayed correctly</li>
+                                <li>Fixes an issue where changes made before quitting the app would not be saved reliably</li>
+                            </ul>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>When the list is not scrolled to the top, the burning animation may appear incorrectly</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Fri, 21 Feb 2025 15:31:55 +0100</pubDate>
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -44,33 +66,6 @@
                                 <li>Updates the About Daruma window</li>
                                 <li>Removes the About Daruma window from the window list</li>
                                 <li>Fixes layout issues in the goal list</li>
-                            </ul>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>When the list is not scrolled to the top, the burning animation may appear incorrectly</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Wed, 12 Feb 2025 10:20:38 +0100</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="6918701" type="application/octet-stream" sparkle:edSignature="l4cAUvrWfsIlVcZatpfjixakfHU2qSIJkuIJ1XhOQFzdubiHh2sdxryqrjphS9vnBLsBcwYf42+ZG4JQGdy6Dg=="/>
-            <description><![CDATA[
-                            <h2>New Features</h2>
-                            <ul>
-                                <li>Enables iCloud sync</li>
-                            </ul>
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Updates the app icon and alternate Dock icons</li>
-                                <li>Improves the list layout</li>
-                                <li>Improves the About window</li>
-                                <li>Fixes an issue where text selection would be retained when focusing a different entry</li>
-                                <li>Corrects the placeholder text for new goals</li>
-                                <li>Includes minor updates and improvements behind the scenes</li>
                             </ul>
                             <h2>Known Issues</h2>
                             <ul>
