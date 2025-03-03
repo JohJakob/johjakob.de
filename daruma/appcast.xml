@@ -4,6 +4,24 @@
         <title>Daruma</title>
         <item>
             <title>1.0</title>
+            <pubDate>Mon, 03 Mar 2025 21:43:57 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="7302298" type="application/octet-stream" sparkle:edSignature="IgCvOR51r3+1vnzg2qZcKU7v3tMnKOj6sOcSF6LjG9bKaab4A//0Sg66n/jvQldZoEJ7DdZMX7CgmM3PFBDKAQ=="/>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>Adds a separate window that appears when burning completed goals</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Enables the light appearance</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 25 Feb 2025 15:49:28 +0100</pubDate>
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -38,30 +56,6 @@
                                 <li>Improves the hover effects of the goal toggles</li>
                                 <li>Fixes an issue where goal titles spanning multiple lines would not be displayed correctly</li>
                                 <li>Fixes an issue where changes made before quitting the app would not be saved reliably</li>
-                            </ul>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>When the list is not scrolled to the top, the burning animation may appear incorrectly</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Fri, 21 Feb 2025 15:31:55 +0100</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="7010465" type="application/octet-stream" sparkle:edSignature="fihIykueePRTTxTN3zk3Abt+PJVb5H//HO5cxh6qel/v9nsSoOHzaN+LVOZybOOn9dwn/SO8FVZcAbJwxFZZDw=="/>
-            <description><![CDATA[
-                            <h2>New Features</h2>
-                            <ul>
-                                <li>Adds special Dock icons that can be unlocked</li>
-                            </ul>
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Adds names to all Dock icons in the settings</li>
-                                <li>Disables the state toggles for untitled goals</li>
-                                <li>Fixes an issue where a new goal would sometimes not be added at the end of the list</li>
                             </ul>
                             <h2>Known Issues</h2>
                             <ul>
