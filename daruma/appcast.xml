@@ -4,6 +4,21 @@
         <title>Daruma</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 04 Mar 2025 10:26:49 +0100</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="7315594" type="application/octet-stream" sparkle:edSignature="nc7ypm+PsOd+y0TTCZ3V0aS0gobTQhiLFI4oqLQKY0JsMIZ1umW77/GzLk7zmNJm6O6IbDTfBf9bf9AH+R2zDQ=="/>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Adds a “Send Feedback” link to the Help menu</li>
+                                <li>Adds a link to the <a href="https://kadomaru.app">Kadomaru Shōkai</a> website to the About window</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Mon, 03 Mar 2025 21:43:57 +0100</pubDate>
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -34,28 +49,6 @@
                                 <li>Removes the ability to paste formatted text</li>
                                 <li>Adds animated transitions in the Appearance settings</li>
                                 <li>Includes updates behind the scenes</li>
-                            </ul>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>When the list is not scrolled to the top, the burning animation may appear incorrectly</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Mon, 24 Feb 2025 21:51:51 +0100</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/daruma/Daruma.zip" length="7016721" type="application/octet-stream" sparkle:edSignature="ruU/tgmnwLoiC05zA3iqMCmzVC6x7wrkGhlRMOoJmMKJD38jabEWSmhTUazjbX4nmcMdgEvwcfnovzCJ1TxeDQ=="/>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Adds a link to the <a href="https://kadomaru.app">Kadomaru Shōkai</a> website in the Help menu</li>
-                                <li>Improves accessibility of the goal list and settings</li>
-                                <li>Improves the hover effects of the goal toggles</li>
-                                <li>Fixes an issue where goal titles spanning multiple lines would not be displayed correctly</li>
-                                <li>Fixes an issue where changes made before quitting the app would not be saved reliably</li>
                             </ul>
                             <h2>Known Issues</h2>
                             <ul>
