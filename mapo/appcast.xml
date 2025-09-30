@@ -4,6 +4,24 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 30 Sep 2025 09:52:54 +0200</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="19637620" type="application/octet-stream" sparkle:edSignature="tXrbpN7aK9uiTjOlKx5ibFpUjHcmXfIAgIHZZU76KEwdpgtnoDchWS3cAmrnEgamGo9nYSlCHVRt8hxdSX6GAw=="/>
+            <description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+								<li>Adds support for restricted icon categories</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Includes minor updates behind the scenes</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Sat, 24 Aug 2024 09:39:28 +0200</pubDate>
             <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
