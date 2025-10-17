@@ -4,19 +4,15 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 30 Sep 2025 09:52:54 +0200</pubDate>
-            <sparkle:version>22</sparkle:version>
+            <pubDate>Fri, 17 Oct 2025 09:17:40 +0200</pubDate>
+            <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="19637620" type="application/octet-stream" sparkle:edSignature="tXrbpN7aK9uiTjOlKx5ibFpUjHcmXfIAgIHZZU76KEwdpgtnoDchWS3cAmrnEgamGo9nYSlCHVRt8hxdSX6GAw=="/>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="19709657" type="application/octet-stream" sparkle:edSignature="wS8QW93e2Jd8XZcJL1lIi2VhGIpELUNsXpmGTsr/jqGp+m0pS6SigtgDeigPGW37QtKp1kAe9j9i/sI8r2EODQ=="/>
             <description><![CDATA[
 							<h2>New Features</h2>
 							<ul>
-								<li>Adds support for restricted icon categories</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>Includes minor updates behind the scenes</li>
+								<li>Adds support for icon background colors and corresponding color pickers in the inspectors for resorts, locations, and areas</li>
 							</ul>
 							]]></description>
         </item>
