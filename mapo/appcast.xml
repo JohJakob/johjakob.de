@@ -4,6 +4,27 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Wed, 22 Oct 2025 14:53:55 +0200</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="19026477" type="application/octet-stream" sparkle:edSignature="uDUMHxdX7teIr4c3XvOirQtnY77cDW9SFaaMXOHGx6TV/JXmJI/+DkGWDxrpBxxFe0tEWfjS5I9+n6aohKKWBg=="/>
+            <description><![CDATA[
+							<h2>New Features</h2>
+							<ul>
+								<li>Adds a new input to the inspector sidebar to quickly search and apply icons</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Improves the suggestions and search in the icon picker</li>
+								<li>Adds the keyboard shortcut <kbd>⌘S</kbd> to save changes</li>
+								<li>Areas now have a default icon background color and do not inherit their location’s color</li>
+								<li>Includes improvements and optimizations behind the scenes</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Fri, 17 Oct 2025 09:17:40 +0200</pubDate>
             <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
