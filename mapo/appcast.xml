@@ -4,6 +4,24 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Thu, 23 Oct 2025 10:50:49 +0200</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="12992662" type="application/octet-stream" sparkle:edSignature="L/eFAlWWgz02e0I8EEs88keyqfkAYKR9pOUgLDfIlb/V9caRInoFjGCIu17jBnYKSflBqkTxwOI3B9fCr6NdDw=="/>
+            <description><![CDATA[
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Fixes an issue that caused the app to crash when attempting to create a new item</li>
+								<li>Changes the logic for choosing what icon background color to display when browsing categories</li>
+								<li>Text input in the icon combo input is now auto-capitalized for easier use</li>
+								<li>Fixes the appearance of the display mode picker in locations</li>
+								<li>Drops support for Intel processors, resulting in a smaller app size</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Wed, 22 Oct 2025 14:53:55 +0200</pubDate>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
