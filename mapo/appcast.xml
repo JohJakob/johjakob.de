@@ -4,6 +4,20 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Mon, 03 Nov 2025 10:50:09 +0100</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="12997342" type="application/octet-stream" sparkle:edSignature="1RMlHzbMvIyuJP6aXY+i86Q3ZDpvpsWQh61blphm2/wws8KX0CANdlHa8syLKnZ7iFfV7plWcNW52YNdlgGRCw=="/>
+            <description><![CDATA[
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Adds a “Kiosk” icon and updates the “Aurebesh” icon</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Thu, 23 Oct 2025 10:50:49 +0200</pubDate>
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -38,20 +52,6 @@
 								<li>Adds the keyboard shortcut <kbd>⌘S</kbd> to save changes</li>
 								<li>Areas now have a default icon background color and do not inherit their location’s color</li>
 								<li>Includes improvements and optimizations behind the scenes</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Fri, 17 Oct 2025 09:17:40 +0200</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="19709657" type="application/octet-stream" sparkle:edSignature="wS8QW93e2Jd8XZcJL1lIi2VhGIpELUNsXpmGTsr/jqGp+m0pS6SigtgDeigPGW37QtKp1kAe9j9i/sI8r2EODQ=="/>
-            <description><![CDATA[
-							<h2>New Features</h2>
-							<ul>
-								<li>Adds support for icon background colors and corresponding color pickers in the inspectors for resorts, locations, and areas</li>
 							</ul>
 							]]></description>
         </item>
