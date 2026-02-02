@@ -4,6 +4,27 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Mon, 02 Feb 2026 15:13:28 +0100</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14824582" type="application/octet-stream" sparkle:edSignature="HozdAgAU26eYZH2cfVO5yDL36kzmu3V0yhLxp4n0Y4Z+0+fPobvB8ALN7iH5vcdp005ZuHYS1fICckAvFitWCQ=="/>
+            <description><![CDATA[
+            					<h2>New Features</h2>
+            					<ul>
+            						<li>Adds export functionality to save the database as a <em>World Entertainment Database</em> (WED) file (<em>File</em> → <em>Export Database…</em>)</li>
+            					</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Fixes an issue where the default resort and location for new points of interests would be empty</li>
+								<li>Improves the responsiveness of the window while resizing</li>
+								<li>Removes the “Choose Icon…” button in the inspector. The icon itself now acts as a button to open to icon picker popover.</li>
+								<li>Includes various improvements behind the scenes</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Mon, 03 Nov 2025 10:50:09 +0100</pubDate>
             <sparkle:version>26</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -31,27 +52,6 @@
 								<li>Text input in the icon combo input is now auto-capitalized for easier use</li>
 								<li>Fixes the appearance of the display mode picker in locations</li>
 								<li>Drops support for Intel processors, resulting in a smaller app size</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Wed, 22 Oct 2025 14:53:55 +0200</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="19026477" type="application/octet-stream" sparkle:edSignature="uDUMHxdX7teIr4c3XvOirQtnY77cDW9SFaaMXOHGx6TV/JXmJI/+DkGWDxrpBxxFe0tEWfjS5I9+n6aohKKWBg=="/>
-            <description><![CDATA[
-							<h2>New Features</h2>
-							<ul>
-								<li>Adds a new input to the inspector sidebar to quickly search and apply icons</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>Improves the suggestions and search in the icon picker</li>
-								<li>Adds the keyboard shortcut <kbd>⌘S</kbd> to save changes</li>
-								<li>Areas now have a default icon background color and do not inherit their location’s color</li>
-								<li>Includes improvements and optimizations behind the scenes</li>
 							</ul>
 							]]></description>
         </item>
