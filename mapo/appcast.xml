@@ -4,6 +4,25 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Wed, 11 Feb 2026 10:08:52 +0100</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14685156" type="application/octet-stream" sparkle:edSignature="x2zs8sQMnUHkAdMt5nVX4o150RYAB4CY0VEp3P++jpotl4EZxFjf5An//VzNvgKGPU6v+QiRNC8lez/m0ZXJCg=="/>
+            <description><![CDATA[
+            					<h2>New Features</h2>
+            					<ul>
+            						<li>The content browser now visually indicates points of interest marked as retired</li>
+            					</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Updates the visual appearance</li>
+								<li>Includes minor updates behind the scenes</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Mon, 02 Feb 2026 15:13:28 +0100</pubDate>
             <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -34,24 +53,6 @@
 							<h2>Fixes and Improvements</h2>
 							<ul>
 								<li>Adds a “Kiosk” icon and updates the “Aurebesh” icon</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Thu, 23 Oct 2025 10:50:49 +0200</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="12992662" type="application/octet-stream" sparkle:edSignature="L/eFAlWWgz02e0I8EEs88keyqfkAYKR9pOUgLDfIlb/V9caRInoFjGCIu17jBnYKSflBqkTxwOI3B9fCr6NdDw=="/>
-            <description><![CDATA[
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>Fixes an issue that caused the app to crash when attempting to create a new item</li>
-								<li>Changes the logic for choosing what icon background color to display when browsing categories</li>
-								<li>Text input in the icon combo input is now auto-capitalized for easier use</li>
-								<li>Fixes the appearance of the display mode picker in locations</li>
-								<li>Drops support for Intel processors, resulting in a smaller app size</li>
 							</ul>
 							]]></description>
         </item>
