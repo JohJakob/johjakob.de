@@ -4,6 +4,24 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 17 Feb 2026 09:50:25 +0100</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14686136" type="application/octet-stream" sparkle:edSignature="EokAUu+xKLuIA81xdcABA2lfWBCFSh2rpBPthfYJkrUL9lAwMphuZz0YuoNVvsW9kWV/j24xL1qb1UjHq+yBDw=="/>
+            <description><![CDATA[
+            					<h2>New Features</h2>
+            					<ul>
+            						<li>Lists otherwise inaccessible orphaned points of interest (which are not assigned to any location and area) below the resort’s locations</li>
+            					</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Includes minor improvements behind the scenes</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Wed, 11 Feb 2026 10:08:52 +0100</pubDate>
             <sparkle:version>28</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -39,20 +57,6 @@
 								<li>Improves the responsiveness of the window while resizing</li>
 								<li>Removes the “Choose Icon…” button in the inspector. The icon itself now acts as a button to open to icon picker popover.</li>
 								<li>Includes various improvements behind the scenes</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Mon, 03 Nov 2025 10:50:09 +0100</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="12997342" type="application/octet-stream" sparkle:edSignature="1RMlHzbMvIyuJP6aXY+i86Q3ZDpvpsWQh61blphm2/wws8KX0CANdlHa8syLKnZ7iFfV7plWcNW52YNdlgGRCw=="/>
-            <description><![CDATA[
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>Adds a “Kiosk” icon and updates the “Aurebesh” icon</li>
 							</ul>
 							]]></description>
         </item>
