@@ -4,59 +4,28 @@
         <title>MAPO</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 17 Feb 2026 09:50:25 +0100</pubDate>
-            <sparkle:version>29</sparkle:version>
+            <pubDate>Wed, 02 Sep 2026 15:14:35 +0200</pubDate>
+            <sparkle:version>30</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14686136" type="application/octet-stream" sparkle:edSignature="EokAUu+xKLuIA81xdcABA2lfWBCFSh2rpBPthfYJkrUL9lAwMphuZz0YuoNVvsW9kWV/j24xL1qb1UjHq+yBDw=="/>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="15570545" type="application/octet-stream" sparkle:edSignature="f0Xw6uM8rBOvCqCU4yo51FGWxk31j7CBL23bwnox+s6qpcTzPyF2anzRJgZwKNhJK9bdRWlCo0sMvFItXfOwDg=="/>
             <description><![CDATA[
-            					<h2>New Features</h2>
-            					<ul>
-            						<li>Lists otherwise inaccessible orphaned points of interest (which are not assigned to any location and area) below the resort’s locations</li>
-            					</ul>
-							<h2>Fixes and Improvements</h2>
+							<h2>New Features</h2>
 							<ul>
-								<li>Includes minor improvements behind the scenes</li>
+								<li>Updates the visual appearance throughout the app</li>
+								<li>The database content can now be navigated using the arrow keys on the keyboard</li>
+								<li>Adds a new Icons window for picking icons more conveniently</li>
+								<li>dds new icons and updates existing ones</li>
 							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Wed, 11 Feb 2026 10:08:52 +0100</pubDate>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14685156" type="application/octet-stream" sparkle:edSignature="x2zs8sQMnUHkAdMt5nVX4o150RYAB4CY0VEp3P++jpotl4EZxFjf5An//VzNvgKGPU6v+QiRNC8lez/m0ZXJCg=="/>
-            <description><![CDATA[
-            					<h2>New Features</h2>
-            					<ul>
-            						<li>The content browser now visually indicates points of interest marked as retired</li>
-            					</ul>
 							<h2>Fixes and Improvements</h2>
 							<ul>
-								<li>Updates the visual appearance</li>
-								<li>Includes minor updates behind the scenes</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Mon, 02 Feb 2026 15:13:28 +0100</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="14824582" type="application/octet-stream" sparkle:edSignature="HozdAgAU26eYZH2cfVO5yDL36kzmu3V0yhLxp4n0Y4Z+0+fPobvB8ALN7iH5vcdp005ZuHYS1fICckAvFitWCQ=="/>
-            <description><![CDATA[
-            					<h2>New Features</h2>
-            					<ul>
-            						<li>Adds export functionality to save the database as a <em>World Entertainment Database</em> (WED) file (<em>File</em> → <em>Export Database…</em>)</li>
-            					</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>Fixes an issue where the default resort and location for new points of interests would be empty</li>
-								<li>Improves the responsiveness of the window while resizing</li>
-								<li>Removes the “Choose Icon…” button in the inspector. The icon itself now acts as a button to open to icon picker popover.</li>
-								<li>Includes various improvements behind the scenes</li>
+								<li>New items will be selected after being created</li>
+								<li>The title text field is now focused when creating a new item</li>
+								<li>Fixes an issue where the sidebar’s scroll position was incorrect after launching the app</li>
+								<li>Improves the icon category views</li>
+								<li>Improves the content filter bars</li>
+								<li>Fixes layout issues in the Updates settings view</li>
 							</ul>
 							]]></description>
         </item>
