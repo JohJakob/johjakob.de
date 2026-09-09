@@ -3,6 +3,24 @@
     <channel>
         <title>MAPO</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Wed, 09 Sep 2026 09:08:24 +0200</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="16496683" type="application/octet-stream" sparkle:edSignature="iRqy49bom/t2fifnXFu6BlHLNlSKzbWHIyaLchTl8uB8KR71SNLvjb7iuF3FvL2K//8HSkAcIhkWKaR17wvWBw=="/>
+            <description><![CDATA[
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Fixes an issue where the preselected location for new areas and the preselected location and area for new points of interest did not respect the current selection</li>
+								<li>Before creating a new point of interest, a category has to be explicitly selected now</li>
+								<li>Improves the preselection of location/area pairs when assigning points of interest to multiple locations and areas</li>
+								<li>When no item is being edited in the inspector, clicking an icon in the Icons window now copies the icon’s name instead of doing nothing</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Fri, 04 Sep 2026 13:16:35 +0200</pubDate>
             <sparkle:version>31</sparkle:version>
