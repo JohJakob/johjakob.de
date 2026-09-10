@@ -3,6 +3,23 @@
     <channel>
         <title>MAPO</title>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Thu, 10 Sep 2026 16:50:57 +0200</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="15822904" type="application/octet-stream" sparkle:edSignature="CICmkJDGftlvqnLB6+/aQYIMbGEgT6D6F/dspf3oUXjHN5G/g7GtHZpn9w+JaI3oJN9Y45mY+hLTlnTU2JwmCg=="/>
+            <description><![CDATA[
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Fixes an issue where the category was not set correctly for newly created points of interest</li>
+								<li>The Icons window now shows more icons when editing locations, areas, and points of interest</li>
+								<li>Fixes an issue where the icon grid view for a selected icon category would be sized to its minimum width</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Wed, 09 Sep 2026 09:08:24 +0200</pubDate>
             <sparkle:version>32</sparkle:version>
@@ -39,33 +56,6 @@
 								<li>Fixes an issue where the points of interest list was not displayed correctly</li>
 								<li>When selecting an item using the keyboard navigation, the selection is now scrolled into view</li>
 								<li>Fixes a minor visual appearance issue in the icon category view</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Wed, 02 Sep 2026 15:14:35 +0200</pubDate>
-            <sparkle:version>30</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="15570545" type="application/octet-stream" sparkle:edSignature="f0Xw6uM8rBOvCqCU4yo51FGWxk31j7CBL23bwnox+s6qpcTzPyF2anzRJgZwKNhJK9bdRWlCo0sMvFItXfOwDg=="/>
-            <description><![CDATA[
-							<h2>New Features</h2>
-							<ul>
-								<li>Updates the visual appearance throughout the app</li>
-								<li>The database content can now be navigated using the arrow keys on the keyboard</li>
-								<li>Adds a new Icons window for picking icons more conveniently</li>
-								<li>dds new icons and updates existing ones</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>New items will be selected after being created</li>
-								<li>The title text field is now focused when creating a new item</li>
-								<li>Fixes an issue where the sidebar’s scroll position was incorrect after launching the app</li>
-								<li>Improves the icon category views</li>
-								<li>Improves the content filter bars</li>
-								<li>Fixes layout issues in the Updates settings view</li>
 							</ul>
 							]]></description>
         </item>
