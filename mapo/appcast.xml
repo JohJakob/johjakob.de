@@ -3,6 +3,27 @@
     <channel>
         <title>MAPO</title>
         <item>
+            <title>1.0.4</title>
+            <pubDate>Wed, 16 Sep 2026 11:19:46 +0200</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="15710896" type="application/octet-stream" sparkle:edSignature="gLgQiZ3Gc7/zEnD7xslu3O/1GfubM8fnL0C3E0GeUO0OBqH/3FW/3NPgkz44yiwcRwsUoLfEuXPgDX9Fq1qRCQ=="/>
+            <description><![CDATA[
+            					<h2>New Features</h2>
+            					<ul>
+            						<li>Adds new and updates existing icons</li>
+            					</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Fixes an issue where the keyboard navigation could interfere with editing database items</li>
+								<li>Fixes an issue where the title text field was sometimes not focused by default when creating a new point of interest</li>
+								<li>Updates the World Entertainment Database file type icon</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Thu, 10 Sep 2026 16:50:57 +0200</pubDate>
             <sparkle:version>33</sparkle:version>
@@ -34,28 +55,6 @@
 								<li>Before creating a new point of interest, a category has to be explicitly selected now</li>
 								<li>Improves the preselection of location/area pairs when assigning points of interest to multiple locations and areas</li>
 								<li>When no item is being edited in the inspector, clicking an icon in the Icons window now copies the icon’s name instead of doing nothing</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Fri, 04 Sep 2026 13:16:35 +0200</pubDate>
-            <sparkle:version>31</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://johjakob.com/mapo/MAPO.zip" length="16495877" type="application/octet-stream" sparkle:edSignature="hQfc2a4d5SYGPWJd+vDSeigHCsiyCQCocbsO7j9kESUhJ8iFpkR4wqiCCKBl63dGTyUQPxuw07EbaUFO8IX4Dw=="/>
-            <description><![CDATA[
-            					<h2>New Features</h2>
-            					<ul>
-            						<li>Adds and updates icons</li>
-            					</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>Fixes an issue where the window’s minimum width was extremely large on macOS Tahoe 26 and later</li>
-								<li>Fixes an issue where the points of interest list was not displayed correctly</li>
-								<li>When selecting an item using the keyboard navigation, the selection is now scrolled into view</li>
-								<li>Fixes a minor visual appearance issue in the icon category view</li>
 							</ul>
 							]]></description>
         </item>
